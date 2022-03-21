@@ -228,6 +228,7 @@
         id="courses"
         style="resize: vertical;"
         rows="7"
+        placeholder="GEND 123&#13;MATH 456"
         bind:value={courseInput}
       />
       <div class="course-error">{courseError}</div>

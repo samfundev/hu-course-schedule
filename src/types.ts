@@ -25,8 +25,8 @@ export class Course {
       1 -
       Math.abs(
         0.5 -
-          (this.timeslot.start.percentRaw() + this.timeslot.end.percentRaw()) /
-            2
+        (this.timeslot.start.percentRaw() + this.timeslot.end.percentRaw()) /
+        2
       )
     );
   }
