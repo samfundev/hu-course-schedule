@@ -113,10 +113,10 @@ export class TimeSlot {
     const otherEnd = other.end.percent();
 
     return (
-      (start < otherStart && otherStart < end) ||
-      (start < otherEnd && otherEnd < end) ||
-      (otherStart < start && start < otherEnd) ||
-      (otherStart < end && end < otherEnd)
+      (start <= otherStart && otherStart <= end) ||
+      (start <= otherEnd && otherEnd <= end) ||
+      (otherStart <= start && start <= otherEnd) ||
+      (otherStart <= end && end <= otherEnd)
     );
   }
 }
