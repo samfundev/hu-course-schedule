@@ -1,4 +1,6 @@
 <script lang="ts">
+  import { onMount } from "svelte";
+
   import Schedule from "./Schedule.svelte";
 
   import { Course, TimeSlot } from "./types";
@@ -6,41 +8,60 @@
 
   // TODO: Conflicts
 
+  // https://github.com/sveltejs/svelte/issues/1591
+  let loaded = false;
+
+  const terms = ["Spring 2021", "Summer 2022", "Fall 2022"];
+  let term;
+
   const timeSlotRegex =
     /^(.+?) (?:([MTWRF]+) )?(\d{1,2}:\d{2} [AP]M) (\d{1,2}:\d{2} [AP]M)/;
   const courseRegex = /^([A-Z]{4}) (\d+) (\d+) (\d+\.\d+) (.+) \1 \2 \3$/;
-  const courses: Course[] = [];
+  let courses: Course[] = [];
   let minHours = 24;
   let maxHours = 0;
-  let coursePromise = fetch("courses_raw.txt").then(async (response) => {
-    const raw_data = (await response.text()).replaceAll(/ +/g, " ");
-    let lastTimeslot: RegExpExecArray | null = null;
-    for (const line of raw_data.split("\n")) {
-      let matches = timeSlotRegex.exec(line);
-      if (matches !== null) {
-        lastTimeslot = matches;
-      } else {
-        matches = courseRegex.exec(line);
+  let coursePromise;
+  function parseCourses() {
+    courses = [];
+    minHours = 24;
+    maxHours = 0;
+
+    coursePromise = fetch(`courses/${term}.txt`).then(async (response) => {
+      const raw_data = (await response.text()).replaceAll(/ +/g, " ");
+      let lastTimeslot: RegExpExecArray | null = null;
+      for (const line of raw_data.split("\n")) {
+        let matches = timeSlotRegex.exec(line);
         if (matches !== null) {
-          const timeslot = new TimeSlot(lastTimeslot);
-          courses.push(new Course(matches, timeslot));
+          lastTimeslot = matches;
+        } else {
+          matches = courseRegex.exec(line);
+          if (matches !== null) {
+            const timeslot = new TimeSlot(lastTimeslot);
+            courses.push(new Course(matches, timeslot));
 
-          if (timeslot.async) continue;
+            if (timeslot.async) continue;
 
-          minHours = Math.min(
-            minHours,
-            Math.floor(timeslot.start.hours + timeslot.start.minutes / 60)
-          );
-          maxHours = Math.max(
-            maxHours,
-            Math.ceil(timeslot.end.hours + timeslot.end.minutes / 60)
-          );
+            minHours = Math.min(
+              minHours,
+              Math.floor(timeslot.start.hours + timeslot.start.minutes / 60)
+            );
+            maxHours = Math.max(
+              maxHours,
+              Math.ceil(timeslot.end.hours + timeslot.end.minutes / 60)
+            );
+          }
         }
       }
-    }
 
-    parseHash();
-  });
+      courses = courses;
+
+      if (!parsedHash) parseHash();
+
+      loaded = true;
+    });
+  }
+
+  onMount(parseCourses);
 
   let generatedSchedules: Course[][] = [];
   let scheduleIndex = 0;
@@ -161,9 +182,9 @@
 
 <div class="container" class:sidebar-open={sidebarOpen}>
   <div class="app">
-    {#await coursePromise}
+    {#if !loaded}
       <div>Loading...</div>
-    {:then _}
+    {:else}
       <Schedule schedule={currentSchedule} />
       <div style="display: flex; justify-content:center; gap: 5px;">
         <button
@@ -172,7 +193,9 @@
           }}>Back</button
         >
         {#if generatedSchedules.length > 0}
-          <span style="align-self: center;">{scheduleIndex + 1} of {generatedSchedules.length}</span>
+          <span style="align-self: center;"
+            >{scheduleIndex + 1} of {generatedSchedules.length}</span
+          >
         {:else}
           <span style="align-self: center;">? of ?</span>
         {/if}
@@ -183,10 +206,20 @@
           }}>Forward</button
         >
       </div>
-    {/await}
+    {/if}
   </div>
   <div class="sidebar">
-    <div style="display: flex; flex-direction: column;">
+    <div style="display: flex; flex-direction: column; gap: 5px;">
+      <label for="term">What term are you taking?</label>
+      <select
+        style="align-self: flex-start;"
+        bind:value={term}
+        on:change={parseCourses}
+      >
+        {#each terms as term}
+          <option value={term.replace(" ", "_").toLowerCase()}>{term}</option>
+        {/each}
+      </select>
       <label for="courses"
         >What courses are you looking to take? Put each course code on a
         separate line.</label

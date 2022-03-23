@@ -1,0 +1,187 @@
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2021-2022 Academic Year Summer
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Computer & Information Science
+Mike Eck TR 10:05 AM 12:05 PM 05/07/2022 08/20/2022 SVC VIRTU
+CISC 120 01 4.00 Programming I CISC 120 01
+Mike Eck TR 12:30 PM 02:00 PM 05/07/2022 08/20/2022 SVC VIRTU
+CISC 140 01 3.00 Programming II CISC 140 01
+Brian Grey TR 10:00 AM 11:30 AM 05/07/2022 08/20/2022 Synchronous online meetings
+SVC VIRTU
+CISC 160 01 3.00 Data Structures CISC 160 01
+Communication
+Jennifer Grace Angstadt 00:00 AM 00:00 AM 05/07/2022 08/20/2022 AOC AOC
+COMM 110 90 3.00 Speech COMM 110 90
+English
+Jennifer Grace Angstadt 00:00 AM 00:00 AM 05/07/2022 08/20/2022 AOC AOC
+ENGL 105 90 3.00 College Composition ENGL 105 90
+Julie Alison Doxsee 00:00 AM 00:00 AM 05/07/2022 08/20/2022 AOC AOC
+ENGL 200 90 3.00 Adv Composition & Technical Wri ENGL 200 90
+Julie Alison Doxsee 00:00 AM 00:00 AM 05/07/2022 08/20/2022 AOC AOC
+ENGL 300 90 3.00 English Language Literature ENGL 300 90
+Gen Ed/Learning Communities
+GEND 201 01 6.00 The Civic Mind GEND 201 01
+GEND 300 01 6.00 The Cultured Mind GEND 300 01
+GEND 351 01 6.00 The Organizational Mind GEND 351 01
+Page 1 of 6
+Revised: 3/23/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2021-2022 Academic Year Summer
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Mathematics
+Mark Alwine MW 10:05 AM 12:05 PM 05/07/2022 08/20/2022 HUHBG HU326 1358
+MATH 120 01 3.00 College Algebra I MATH 120 01
+Sarah Baxter MW 10:05 AM 11:35 AM 05/07/2022 08/20/2022 HUHBG HU326 1354
+MATH 280 01 3.00 Introductory Statistics MATH 280 01
+Academic Success
+Albert Sarvis 00:00 AM 00:00 AM 05/07/2022 08/20/2022 AOC AOC
+SEMR 400 90 1.00 Capstone SEMR 400 90
+Computer & Information Science
+Victoria Anna Elisabeth Heishman 00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+CISC 120 90 S1 4.00 Programming I CISC 120 90 S1 E
+Communication
+Melissa Gettys 00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+COMM 110 90 S1 3.00 Speech COMM 110 90 S1 E
+Cybersecurity Oper & Mgmt
+00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+CYOM 105 90 S1 3.00 Introduction to Cybersecurity CYOM 105 90 S1 E
+00:00 AM 00:00 AM 05/07/2022 08/20/2022 asynchronous online course
+AOC AOC
+CYOM 230 90 S1 3.00 Cyber Defense CYOM 230 90 S1 E
+CYOM 298 90 S1 3.00 CYOM Project I CYOM 298 90 S1 E
+Page 2 of 6
+Revised: 3/23/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2021-2022 Academic Year Summer
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Cybersecurity Oper & Mgmt
+Lisa Schlosser 00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+CYOM 498 90 S1 3.00 Project II CYOM 498 90 S1 E
+English
+Melissa Gettys 00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+ENGL 105 90 S1 3.00 College Composition ENGL 105 90 S1 E
+Esports Management
+00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+ESPT 110 90 S1 1.00 Competitive Gaming Seminar ESPT 110 90 S1 E
+Gen Ed/Learning Communities
+00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+GEND 103 90 S1 3.00 The Creative Mind II GEND 103 90 S1 E
+00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+GEND 113 90 S1 3.00 Scientific Mind: Life Sciences GEND 113 90 S1 E
+Mathematics
+00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+MATH 120 90 S1 3.00 College Algebra I MATH 120 90 S1 E
+00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+MATH 250 90 S1 3.00 Introduction to Linear Algebra MATH 250 90 S1 E
+Management & E-Business
+00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+MEBA 335 90 S1 3.00 Business Law and Ethics MEBA 335 90 S1 E
+Page 3 of 6
+Revised: 3/23/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2021-2022 Academic Year Summer
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Nursing
+Pauline Hwang 00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+NURS 320 90 S1 3.00 Nursing Practice and Senior Adul NURS 320 90 S1 E
+Academic Success
+00:00 AM 00:00 AM 05/09/2022 06/25/2022 asynchronous online course
+AOC AOC
+SEMR 100 90 S1 1.00 Cornerstone SEMR 100 90 S1 E
+Computer & Information Science
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+CISC 103 90 S2 4.00 Intro to Computers & Info Science CISC 103 90 S2 F
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+CISC 120 91 S2 4.00 Programming I CISC 120 91 S2 F
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+CISC 160 90 S2 3.00 Data Structures CISC 160 90 S2 F
+Communication
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+COMM 110 91 S2 3.00 Speech COMM 110 91 S2 F
+Cybersecurity Oper & Mgmt
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+CYOM 410 90 S2 3.00 Cloud Cybersecurity and Governa CYOM 410 90 S2 F
+English
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+ENGL 105 91 S2 3.00 College Composition ENGL 105 91 S2 F
+Page 4 of 6
+Revised: 3/23/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2021-2022 Academic Year Summer
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Esports Management
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+ESPT 120 90 S2 4.00 Introduction to Esports ESPT 120 90 S2 F
+Gen Ed/Learning Communities
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+GEND 102 90 S2 3.00 The Creative Mind I GEND 102 90 S2 F
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+GEND 400 90 S2 3.00 The Entrepreneurial Mind GEND 400 90 S2 F
+Interactive Media
+IMED 170 90 S2 3.00 Visual Design Fundamentals IMED 170 90 S2 F
+Management & E-Business
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+MEBA 375 90 S2 3.00 Statistics for Managers MEBA 375 90 S2 F
+Nursing
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+NURS 298 90 S2 3.00 Project I Evidence Based Practice NURS 298 90 S2 F
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+NURS 435 90 S2 4.00 Nursing Leadership & Health Poli NURS 435 90 S2 F
+Academic Success
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+SEMR 100 91 S2 1.00 Cornerstone SEMR 100 91 S2 F
+Page 5 of 6
+Revised: 3/23/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2021-2022 Academic Year Summer
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Academic Success
+00:00 AM 00:00 AM 07/05/2022 08/20/2022 asynchronous online course
+AOC AOC
+SEMR 200 90 S2 1.00 Steppingstone SEMR 200 90 S2 F
+Page 6 of 6
+Revised: 3/23/2022 Textbook Information is available under the Academics tab of the myHU portal.
+
