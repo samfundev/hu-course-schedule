@@ -16,7 +16,8 @@
 
   const timeSlotRegex =
     /^(.+?) (?:([MTWRF]+) )?(\d{1,2}:\d{2} [AP]M) (\d{1,2}:\d{2} [AP]M)/;
-  const courseRegex = /^([A-Z]{4}) (\d+) (\d+) (\d+\.\d+) (.+) \1 \2 \3$/;
+  const courseRegex =
+    /^([A-Z]{4}) (\d+) (\d+) (\d+\.\d+) (.+) \1 \2 \3(?: \d+ \/ \d+)?$/;
   let courses: Course[] = [];
   let minHours = 24;
   let maxHours = 0;
