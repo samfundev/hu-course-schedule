@@ -155,6 +155,7 @@
     if (maxConflicts > 0 || hashParts.length > 0) hashParts.push(maxConflicts);
     if (courseInput.length > 0 || hashParts.length > 0)
       hashParts.push(courseInput);
+    hashParts.push(term);
     hashParts.reverse();
 
     window.history.replaceState(
@@ -172,10 +173,15 @@
     const hash = decodeURIComponent(location.hash);
     if (!hash.startsWith("#")) return;
 
+    try {
     const json = JSON.parse(`[${hash.substring(1)}]`);
-    courseInput = json[0] ?? "";
-    maxConflicts = json[1] ?? 0;
-    optionalCourses = json[2] ?? {};
+      term = json[0] ?? "";
+      courseInput = json[1] ?? "";
+      maxConflicts = json[2] ?? 0;
+      optionalCourses = json[3] ?? {};
+    } catch (error) {
+      console.warn("Failed to parse hash:", error);
+    }
   }
 
   window.addEventListener("hashchange", parseHash);
