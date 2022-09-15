@@ -13,6 +13,7 @@
 
   const terms = ["Spring 2021", "Summer 2022", "Fall 2022"];
   let term;
+  let lastTerm;
 
   const timeSlotRegex =
     /^(.+?) (?:([MTWRF]+) )?(\d{1,2}:\d{2} [AP]M) (\d{1,2}:\d{2} [AP]M)/;
@@ -23,6 +24,8 @@
   let maxHours = 0;
   let coursePromise;
   function parseCourses() {
+    if (term === undefined || term === lastTerm) return;
+
     courses = [];
     minHours = 24;
     maxHours = 0;
@@ -55,6 +58,7 @@
       }
 
       courses = courses;
+      lastTerm = term;
 
       if (!parsedHash) parseHash();
 
@@ -62,7 +66,7 @@
     });
   }
 
-  onMount(parseCourses);
+  $: term, parseCourses();
 
   let generatedSchedules: Course[][] = [];
   let scheduleIndex = 0;
@@ -218,11 +222,7 @@
   <div class="sidebar">
     <div style="display: flex; flex-direction: column; gap: 5px;">
       <label for="term">What term are you taking?</label>
-      <select
-        style="align-self: flex-start;"
-        bind:value={term}
-        on:change={parseCourses}
-      >
+      <select style="align-self: flex-start;" bind:value={term}>
         {#each terms as term}
           <option value={term.replace(" ", "_").toLowerCase()}>{term}</option>
         {/each}
