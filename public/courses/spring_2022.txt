@@ -1,0 +1,878 @@
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Advanced Manufacturing
+Richard Pitts MW 09:00 AM 10:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1114
+ADMA 115 01 3.00 Microcomputer Applications in TechADMA 115 01
+Justin D Zigner MW 10:30 AM 12:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1012A
+ADMA 160 01 3.00 Metallic Materials & ManufacturingADMA 160 01
+Glenn P. Williams MW 12:15 PM 01:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1346
+ADMA 230 01 3.00 Appld Analog & Digital Electronics ADMA 230 01
+Justin D Zigner MW 12:15 PM 01:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1012A
+ADMA 240 01 3.00 Computer Assisted Drawing ADMA 240 01
+Glenn P. Williams TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1346
+ADMA 310 01 3.00 Basics of Manufacturing SimulationADMA 310 01
+Matthew Rissler W 06:00 PM 09:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1114
+ADMA 323 01 3.00 Computer Assisted Product DesignADMA 323 01
+Justin D Zigner TR 12:05 PM 01:35 PM 01/07/2023 04/27/2023 HUHBG HU326 1002
+ADMA 338 01 3.00 Non-Metallic Materials & ProcessingADMA 338 01
+Richard Pitts MW 12:15 PM 01:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1002
+ADMA 410 01 3.00 CAD/CAM and Industrial Robotics IIADMA 410 01
+Glenn P. Williams MW 09:00 AM 10:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1346
+ADMA 455 01 3.00 Manufacturing Automation SystemsADMA 455 01
+Justin D Zigner TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1002
+ADMA 480 01 3.00 Advanced Manufacturing II ADMA 480 01
+Page 1 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Biology
+Dana Harriger MWF 11:10 AM 12:10 PM 01/07/2023 04/27/2023 HUHBG HU326 1112
+BIOL 102 01 3.00 General Biology Lecture BIOL 102 01
+Dana Harriger MWF 01:20 PM 02:20 PM 01/07/2023 04/27/2023 HUHBG HU326 1112
+BIOL 102 02 3.00 General Biology Lecture BIOL 102 02
+Dana Harriger T 08:00 AM 11:00 AM 01/07/2023 04/27/2023 Lab component for BIOL 102 HUHBG HU326 1102
+BIOL 103 01 1.00 General Biology Laboratory BIOL 103 01
+Dana Harriger T 11:10 AM 02:10 PM 01/07/2023 04/27/2023 Lab component for BIOL 102 HUHBG HU326 1102
+BIOL 103 02 1.00 General Biology Laboratory BIOL 103 02
+Akeisha Belgrave MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1004
+BIOL 281 01 3.00 Cell Biology Lecture BIOL 281 01
+Catherine Santai M 11:10 AM 02:10 PM 01/07/2023 04/27/2023 Lab component for BIOL 281 HUHBG HU326 1102
+BIOL 282 01 1.00 Cell Biology Laboratory BIOL 282 01
+Bernardo Mesa TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1012A
+BIOL 320 01 3.00 Genetics BIOL 320 01
+Jacquelyn Maddox MWF 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1005
+Jacquelyn Maddox T 11:10 AM 02:10 PM 01/07/2023 04/27/2023 Lab component HUHBG HU326 1314
+BIOL 330 01 4.00 Microbiology BIOL 330 01
+Jacquelyn Maddox MWF 11:10 AM 12:10 PM 01/07/2023 04/27/2023 HUHBG HU326 1005
+BIOL 351 01 3.00 Applied Microbiology Lecture BIOL 351 01
+Jacquelyn Maddox R 11:10 AM 02:10 PM 01/07/2023 04/27/2023 Lab component for BIOL 351 HUHBG HU326 1314
+BIOL 352 01 1.00 Applied Microbiology Lab BIOL 352 01
+Page 2 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Biology
+BIOL 375 01 4.00 Immunology BIOL 375 01
+Biotechnology
+Jacquelyn Maddox MWF 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1005
+BTEC 170 01 3.00 Introduction to Biotechnology BTEC 170 01
+MW 05:00 PM 07:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1314
+BTEC 216 01 4.00 Prin of Physics for Nanobiot BTEC 216 01
+Christine Skibinski TR 12:05 PM 01:35 PM 01/07/2023 04/27/2023 HUHBG HU326 1312
+Christine Skibinski T 08:00 AM 11:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1314
+BTEC 235 01 4.00 Applied Cell and Agro Culture BTEC 235 01
+Mrunalini V Pattarkine MW 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1312
+Mrunalini V Pattarkine M 11:10 AM 02:10 PM 01/07/2023 04/27/2023 Lab component HUHBG HU326 1314
+BTEC 240 01 3.00 Techniques for Biomolecular ResrchBTEC 240 01
+Mrunalini V Pattarkine TR 08:25 AM 09:55 AM 01/07/2023 04/27/2023 SVC VIRTU
+BTEC 250 01 3.00 Medical Biotechnologies of 2020 BTEC 250 01
+Christine Skibinski 00:00 AM 00:00 AM 01/07/2023 04/27/2023 HUHBG HU326
+Christine Skibinski 00:00 AM 00:00 AM 01/07/2023 04/27/2023 Lab component HUHBG HU326
+BTEC 351 01 4.00 Biotechnology Applications BTEC 351 01
+Karma Pace MW 03:30 PM 05:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1252
+BTEC 355 01 3.00 Neurology and Biotechnology BTEC 355 01
+Page 3 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Chemistry
+Yiben Wang MWF 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1258
+CHEM 161 01 3.00 General Chemistry Lecture II CHEM 161 01
+Yiben Wang T 11:05 AM 02:05 PM 01/07/2023 04/27/2023 Lab component for CHEM 161 HUHBG HU326 1214
+CHEM 162 01 1.00 General Chemistry Laboratory II CHEM 162 01
+Yiben Wang T 03:30 PM 06:30 PM 01/07/2023 04/27/2023 Lab component of CHEM 161 HUHBG HU326 1214
+CHEM 162 02 1.00 General Chemistry Laboratory II CHEM 162 02
+Pamela Higgins R 05:30 PM 08:30 PM 01/07/2023 04/27/2023 HUHBG HU326 1204
+CHEM 200 01 3.00 Environmental Chemistry I CHEM 200 01
+Richard D. Jackson MF 10:05 AM 11:35 AM 01/07/2023 04/27/2023 HUHBG HU326 1212
+Richard D. Jackson T 08:00 AM 11:00 AM 01/07/2023 04/27/2023 Lab component HUHBG HU326 1214
+CHEM 220 01 4.00 Organic Chemistry II CHEM 220 01
+Andrea M Nagy MWF 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1054
+Andrea M Nagy R 03:30 PM 06:30 PM 01/07/2023 04/27/2023 Lab component HUHBG HU326 1214
+CHEM 325 01 4.00 Instrumental Chemical Analysis CHEM 325 01
+Catherine Santai MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1212
+Catherine Santai R 08:00 AM 11:00 AM 01/07/2023 04/27/2023 Lab component HUHBG HU326 1214
+CHEM 350 01 4.00 Biochemistry II CHEM 350 01
+Computer & Information Science
+Philip Alan Grim TR 10:00 AM 12:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1005
+CISC 120 01 4.00 Programming I CISC 120 01
+Philip Alan Grim TR 03:15 PM 05:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1005
+CISC 120 02 4.00 Programming I CISC 120 02
+Page 4 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Computer & Information Science
+Mike Eck TR 12:05 PM 02:05 PM 01/07/2023 04/27/2023 HUPHI PHILA 112
+CISC 120 P1 4.00 Programming I CISC 120 P1
+Philip Alan Grim TR 08:25 AM 09:55 AM 01/07/2023 04/27/2023 HUHBG HU326 1005
+CISC 140 01 3.00 Programming II CISC 140 01
+Brian Grey MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1112
+CISC 160 01 3.00 Data Structures CISC 160 01
+Andrew Kane TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUPHI PHILA 122
+CISC 160 P1 3.00 Data Structures CISC 160 P1
+Khalid Lateef TR 12:05 PM 02:05 PM 01/07/2023 04/27/2023 SVC VIRTU
+CISC 211 01 4.00 Computer Organization & ArchiectureCISC 211 01
+Benjamin Blocker TR 03:15 PM 05:15 PM 01/07/2023 04/27/2023 HUPHI PHILA 112
+CISC 211 P1 4.00 Computer Organization & Archiecture
+CISC 211 P1
+Mina Gabriel MW 10:05 AM 11:35 AM 01/07/2023 04/27/2023 HUHBG HU326 1358
+CISC 225 01 3.00 Information Syst Analysis & DesignCISC 225 01
+Mina Gabriel M 12:15 PM 01:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1358
+W 12:15 PM 01:45 PM 01/07/2023 04/27/2023 SVC VIRTU
+CISC 225 02 3.00 Information Syst Analysis & DesignCISC 225 02
+Benjamin Blocker TR 08:25 AM 09:55 AM 01/07/2023 04/27/2023 HUPHI PHILA 112
+CISC 225 P1 3.00 Information Syst Analysis & DesignCISC 225 P1
+Eugene Rohrbaugh TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1112
+CISC 233 01 3.00 Essential Algorithms CISC 233 01
+Page 5 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Computer & Information Science
+Andrew Kane TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUPHI PHILA 122
+CISC 233 P1 3.00 Essential Algorithms CISC 233 P1
+Daqing Yun MW 09:00 AM 10:30 AM 01/07/2023 04/27/2023 Open to Philadelphia HUHBG HU326 1252
+CISC 301 01 3.00 Operating Systems CISC 301 01
+Eugene Rohrbaugh TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 Open to Philadelphia HUHBG HU326 1112
+CISC 325 01 3.00 Programming Languages ConceptsCISC 325 01
+Ronald C Jones MWF 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1354
+CISC 333 01 3.00 Defensive Programming CISC 333 01
+Brian Grey MW 12:15 PM 02:15 PM 01/07/2023 04/27/2023 Open to Philadelphia HUHBG HU326 1104
+CISC 340 01 4.00 Intro to Artificial Intelligence CISC 340 01
+Mike Eck MWF 12:15 PM 01:15 PM 01/07/2023 04/27/2023 Open to Harisburg campus HUPHI PHILA 112
+CISC 349 P1 3.00 Smart Phones Programming CISC 349 P1
+Andrew Hacker MW 03:30 PM 05:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1058
+CISC 370 01 3.00 Ethical Hacking CISC 370 01
+Andrew Kane TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUPHI PHILA 122
+CISC 370 P1 3.00 Ethical Hacking CISC 370 P1
+Saeed Esmaili-Sardari M 06:00 PM 09:00 PM 01/07/2023 04/27/2023 Open to Philadelphia SVC VIRTU
+CISC 399 01 3.00 Formal Languages & Automata TheoryCISC 399 01
+Mina Gabriel MW 07:55 AM 09:25 AM 01/07/2023 04/27/2023 HUHBG HU326 1358
+CISC 400 01 3.00 Computer Graphics CISC 400 01
+Philip Alan Grim TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 Open to Philadelphia HUHBG HU326 1005
+CISC 431 01 3.00 Natural Language Procssing CISC 431 01
+Page 6 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Computer & Information Science
+Ronald C Jones TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 Open to Philadelphia HUHBG HU326 1252
+CISC 440 01 3.00 Wireless Security Management CISC 440 01
+Daqing Yun MW 03:30 PM 05:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1258
+CISC 491 01 3.00 Software Dev Processes and QualityCISC 491 01
+Thomas Sarachan 00:00 AM 00:00 AM 01/07/2023 04/27/2023 AOC AOC
+CISC 499 90 3.00 Industry Software Ethics CISC 499 90
+Thomas Sarachan 00:00 AM 00:00 AM 01/07/2023 04/27/2023 Open to Philadelphia
+AOC AOC
+CISC 499 91 3.00 Industry Software Ethics CISC 499 91
+Communication
+Jennifer Grace Angstadt MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1046
+COMM 110 01 3.00 Speech COMM 110 01
+Jennifer Grace Angstadt MW 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1046
+Jennifer Grace Angstadt F 10:05 AM 11:05 AM 01/07/2023 04/27/2023 SVC VIRTU
+COMM 110 02 3.00 Speech COMM 110 02
+Jennifer Grace Angstadt MW 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1046
+Jennifer Grace Angstadt F 12:15 PM 01:15 PM 01/07/2023 04/27/2023 SVC VIRTU
+COMM 110 03 3.00 Speech COMM 110 03
+Julie Alison Doxsee MWF 11:10 AM 12:10 PM 01/07/2023 04/27/2023 HUHBG HU326 1354
+COMM 110 04 3.00 Speech COMM 110 04
+Julie Alison Doxsee TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1354
+COMM 110 05 3.00 Speech COMM 110 05
+Page 7 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Communication
+Vicki Villone TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1004
+COMM 110 06 3.00 Speech COMM 110 06
+Lauren Marfo MWF 01:20 PM 02:20 PM 01/07/2023 04/27/2023 HUPHI PHILA 109
+COMM 110 P1 3.00 Speech COMM 110 P1
+English
+Jennifer Grace Angstadt TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1054
+ENGL 105 01 3.00 College Composition ENGL 105 01
+Lauren Marfo TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUPHI PHILA 109
+ENGL 105 P1 3.00 College Composition ENGL 105 P1
+Julie Alison Doxsee MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1354
+ENGL 200 01 3.00 Adv Composition & Technical WritingENGL 200 01
+Vicki Villone T 08:25 AM 09:55 AM 01/07/2023 04/27/2023 HUHBG HU326 1004
+Vicki Villone R 08:25 AM 09:55 AM 01/07/2023 04/27/2023 SVC VIRTU
+ENGL 200 02 3.00 Adv Composition & Technical WritingENGL 200 02
+Lauren Marfo TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUPHI PHILA 109
+ENGL 200 P1 3.00 Adv Composition & Technical Writing
+ENGL 200 P1
+Julie Alison Doxsee MWF 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1354
+ENGL 300 01 3.00 English Language Literature ENGL 300 01
+Environmental Science
+Christine Marie Proctor W 03:30 PM 04:30 PM 01/07/2023 04/27/2023 HUHBG HU326 1104
+ENVS 100 01 1.00 Environmental Studies Seminar ENVS 100 01
+Page 8 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Environmental Science
+Jennifer Sliko T 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1254
+Jennifer Sliko T 08:00 AM 11:00 AM 01/07/2023 04/27/2023 Lab component HUHBG HU326 1202
+Jennifer Sliko R 12:35 PM 02:05 PM 01/07/2023 04/27/2023 SVC VIRTU
+ENVS 101 01 4.00 Intro to Environmental Science ENVS 101 01
+MW 04:35 PM 06:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1254
+ENVS 106 01 3.00 ST:Intro to Environmental EducationENVS 106 01
+Rachel Fogle T 03:15 PM 04:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1102
+ENVS 110 01 1.00 Intr to Controlled Environm Agr ENVS 110 01
+Michael B Meyer MW 09:00 AM 10:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1204
+ENVS 211 01 3.00 Intro Renewable Energy Systems ENVS 211 01
+Michael B Meyer MWF 07:55 AM 08:55 AM 01/07/2023 04/27/2023 HUHBG HU326 1204
+Michael B Meyer F 11:10 AM 02:10 PM 01/07/2023 04/27/2023 Lab component HUHBG HU326 1202
+ENVS 220 01 4.00 Principles of Hydrology ENVS 220 01
+Rachel Fogle T 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1104
+Rachel Fogle R 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1102
+ENVS 240 01 3.00 RAS Management ENVS 240 01
+Scott Stuccio MW 06:30 PM 08:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+ENVS 380 01 3.00 ST: Principles of Weather ForecastENVS 380 01
+Esports Management
+Zac Goren W 06:00 PM 07:00 PM 01/07/2023 04/27/2023 Open to Philadelphia SVC VIRTU
+ESPT 110 01 1.00 Competitive Gaming Seminar ESPT 110 01
+Page 9 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Esports Management
+Thomas Panico TR 12:05 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1258
+ESPT 120 01 4.00 Introduction to Esports ESPT 120 01
+00:00 AM 00:00 AM 01/07/2023 04/27/2023 HUHBG HU326
+ESPT 220 01 4.00 Social Media Management ESPT 220 01
+04:45 PM 05:35 PM 01/07/2023 04/27/2023 Open to Philadelphia SVC VIRTU
+ESPT 230 01 3.00 Esports Broadcasting ESPT 230 01
+Thomas Panico MW 10:05 AM 12:05 PM 01/07/2023 04/27/2023 SVC VIRTU
+ESPT 320 01 3.00 Esports Field Studies ESPT 320 01
+Thomas Panico TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1258
+ESPT 330 01 3.00 Live Event Production ESPT 330 01
+Jennifer Metz 00:00 AM 00:00 AM 01/07/2023 04/27/2023 SVC VIRTU
+ESPT 420 01 4.00 Leadership ESPT 420 01
+Forensics
+Jillian Kate Yeakel M 12:15 PM 01:45 PM 01/07/2023 04/27/2023 SVC VIRTU
+Jillian Kate Yeakel W 12:15 PM 01:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1202
+FORS 125 01 3.00 Forensic Science FORS 125 01
+Jillian Kate Yeakel T 10:00 AM 11:30 AM 01/07/2023 04/27/2023 SVC VIRTU
+Jillian Kate Yeakel R 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1202
+FORS 125 02 3.00 Forensic Science FORS 125 02
+Carrie Rowe Wise M 03:30 PM 04:30 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+FORS 230 01 1.00 Quality Assurance and Case MgmtFORS 230 01
+Page 10 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Forensics
+Carrie Rowe Wise M 12:35 PM 02:05 PM 01/07/2023 04/27/2023 SVC VIRTU
+Carrie Rowe Wise W 12:35 PM 02:05 PM 01/07/2023 04/27/2023 TEMPL TEMPL H206
+FORS 250 01 3.00 Forensic Photography FORS 250 01
+Robert Furey MW 03:30 PM 05:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1204
+Robert Furey F 03:30 PM 06:30 PM 01/07/2023 04/27/2023 Lab component HUHBG HU326 1202
+FORS 315 01 4.00 Forensic Entomology FORS 315 01
+Jillian Kate Yeakel M 10:00 AM 11:30 AM 01/07/2023 04/27/2023 SVC VIRTU
+Jillian Kate Yeakel W 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1212
+FORS 325 01 3.00 Forensic Toxicology FORS 325 01
+Carrie Rowe Wise TR 09:00 AM 10:00 AM 01/07/2023 04/27/2023 SVC VIRTU
+Carrie Rowe Wise W 03:30 PM 06:30 PM 01/07/2023 04/27/2023 Lab component HUHBG HU326 1202
+FORS 330 01 3.00 Forensic Instrumentation FORS 330 01
+Carrie Rowe Wise T 12:35 PM 02:05 PM 01/07/2023 04/27/2023 SVC VIRTU
+Carrie Rowe Wise R 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1202
+R 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1204
+FORS 350 01 3.00 Trace Evidence Analysis FORS 350 01
+Robert Furey TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1258
+FORS 360 01 3.00 Forensic Case Study FORS 360 01
+00:00 AM 00:00 AM 01/07/2023 04/27/2023 HUHBG HU326
+FORS 362 01 3.00 Medico-Legal Death Investigation FORS 362 01
+Scott W. Foulkrod IV MW 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326
+FORS 367 01 3.00 Evidence FORS 367 01
+Page 11 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Gen Ed/Learning Communities
+Elizabeth Hockley MWF 11:10 AM 12:10 PM 01/07/2023 04/27/2023 HUHBG HU326 1302
+GEND 102 01 3.00 The Creative Mind I GEND 102 01
+Jaime Gibson MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1104
+GEND 103 01 3.00 The Creative Mind II GEND 103 01
+Dawn Spaar MW 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1104
+F 10:05 AM 11:05 AM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 103 02 3.00 The Creative Mind II GEND 103 02
+Dawn Spaar MW 11:10 AM 12:10 PM 01/07/2023 04/27/2023 HUHBG HU326 1104
+Dawn Spaar F 11:10 AM 12:10 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 103 03 3.00 The Creative Mind II GEND 103 03
+Elizabeth Hockley MWF 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1302
+GEND 103 04 3.00 The Creative Mind II GEND 103 04
+Robert Wimer MW 05:00 PM 06:30 PM 01/07/2023 04/27/2023 HUHBG HU326 1112
+GEND 103 05 3.00 The Creative Mind II GEND 103 05
+Jaime Gibson TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1112
+GEND 103 06 3.00 The Creative Mind II GEND 103 06
+Paul Arendt TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUPHI PHILA 125
+GEND 103 P1 3.00 The Creative Mind II GEND 103 P1
+Dan Tomaso TR 08:25 AM 09:55 AM 01/07/2023 04/27/2023 HUHBG HU326 1054
+GEND 104 01 3.00 Our Ocean World GEND 104 01
+Page 12 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Gen Ed/Learning Communities
+Jennifer Sliko T 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1254
+Jennifer Sliko R 03:15 PM 04:45 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 104 02 3.00 Our Ocean World GEND 104 02
+Brett Thackara MW 07:55 AM 09:25 AM 01/07/2023 04/27/2023 HUHBG HU326 1254
+GEND 109 01 3.00 Meteorology GEND 109 01
+Scott Stuccio MW 04:35 PM 06:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+GEND 109 02 3.00 Meteorology GEND 109 02
+Steven Jasinski TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1058
+GEND 113 01 3.00 Scientific Mind: Life Sciences GEND 113 01
+Steven Jasinski TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1058
+GEND 113 02 3.00 Scientific Mind: Life Sciences GEND 113 02
+Karma Pace TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUPHI PHILA 109
+GEND 113 P1 3.00 Scientific Mind: Life Sciences GEND 113 P1
+Jennifer Metz TR 06:00 PM 07:30 PM 01/07/2023 04/27/2023 HUHBG HU326 1212
+GEND 120 01 3.00 Self & Society: Intro to Sociology GEND 120 01
+Jennifer Metz TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 120 P1 3.00 Self & Society: Intro to Sociology GEND 120 P1
+Brian Grey MWF 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1112
+GEND 122 01 3.00 Computational Mind GEND 122 01
+Ru Wideman MW 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1312
+Ru Wideman F 09:00 AM 10:00 AM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 130 01 3.00 General Psychology GEND 130 01
+Page 13 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Gen Ed/Learning Communities
+Sarah Dyson MW 03:30 PM 05:00 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 130 P1 3.00 General Psychology GEND 130 P1
+Scott W. Foulkrod IV MWF 12:15 PM 02:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1204
+GEND 150 01 6.00 The Learned Mind GEND 150 01
+Christopher Maith MWF 12:15 PM 01:15 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 215 01 3.00 The Civic Mind GEND 215 01
+Christopher Maith MW 03:30 PM 05:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1005
+GEND 215 02 3.00 The Civic Mind GEND 215 02
+Barbara Geisler TR 08:25 AM 09:55 AM 01/07/2023 04/27/2023 HUHBG HU326 1058
+GEND 215 03 3.00 The Civic Mind GEND 215 03
+Heather Tidwell T 05:00 PM 06:30 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+Heather Tidwell R 05:00 PM 06:30 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 215 04 3.00 The Civic Mind GEND 215 04
+Thomas Sarachan T 06:30 PM 08:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1005
+R 06:30 PM 08:00 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 215 05 3.00 The Civic Mind GEND 215 05
+Frank Fuller MW 03:30 PM 05:00 PM 01/07/2023 04/27/2023 HUPHI PHILA 109
+GEND 215 P1 3.00 The Civic Mind GEND 215 P1
+Elizabeth Hockley MWF 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1302
+GEND 275 01 3.00 Gender and Society GEND 275 01
+Elizabeth Hockley TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 Open to Philadelphia SVC VIRTU
+GEND 275 02 3.00 Gender and Society GEND 275 02
+Page 14 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Gen Ed/Learning Communities
+Thomas Sarachan MW 07:00 PM 08:30 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 325 01 3.00 Consulting GEND 325 01
+Thomas Sarachan MWF 01:20 PM 02:20 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 325 P1 3.00 Consulting GEND 325 P1
+Dawn Spaar TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1104
+GEND 355 01 3.00 The Corporate Mind GEND 355 01
+Vicki Villone TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+GEND 380 01 3.00 ST: Science in Literature GEND 380 01
+Heather Tidwell TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+GEND 400 01 3.00 The Entrepreneurial Mind GEND 400 01
+Dawn Spaar TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 400 P1 3.00 The Entrepreneurial Mind GEND 400 P1
+John McKnight TR 12:05 PM 01:35 PM 01/07/2023 04/27/2023 SVC VIRTU
+GEND 425 01 3.00 Globalization GEND 425 01
+Thomas Sarachan 00:00 AM 00:00 AM 01/07/2023 04/27/2023 Asynchronous Online Course
+AOC AOC
+GEND 465 90 3.00 Ethical Mind: Ethics in Digital Age CISC 499 90
+Thomas Sarachan 00:00 AM 00:00 AM 01/07/2023 04/27/2023 Asynchronous Online Course
+AOC AOC
+GEND 465 91 3.00 Ethical Mind: Ethics in Digital Age CISC 499 91
+Geospatial Technology
+Joel Rogers TR 04:00 PM 06:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1354
+GSTC 140 01 4.00 Introduction to GIS GSTC 140 01
+Page 15 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Geospatial Technology
+Christine Marie Proctor TR 12:05 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1104
+GSTC 220 01 4.00 Applied Geospatial Technology GSTC 220 01
+Albert Sarvis MW 09:00 AM 11:00 AM 01/07/2023 01/25/2023 HUHBG HU326
+GSTC 240 01 4.00 GIS Policy GSTC 240 01
+Interactive Media
+Charles LaMonte Palmer MW 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1254
+IMED 110 01 2.00 Introduction to Digital Design IMED 110 01
+Caleb Smith MW 01:20 PM 02:20 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+IMED 110 02 2.00 Introduction to Digital Design IMED 110 02
+Lewis James Ellis MW 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUPHI PHILA 113
+IMED 110 P1 2.00 Introduction to Digital Design IMED 110 P1
+Sa Liu TR 12:05 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1302
+IMED 120 01 4.00 Introduction to Media ComputationIMED 120 01
+Simon Chen MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUPHI PHILA 124
+IMED 120 P1 4.00 Introduction to Media ComputationIMED 120 P1
+Kelly Boudreau M 10:05 AM 01:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1012
+IMED 215 01 3.00 Intro to Game Studies and Design IMED 215 01
+Nathan Aileo TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1212
+IMED 220 01 3.00 Sociotechnical Theories IMED 220 01
+00:00 AM 00:00 AM 01/07/2023 04/27/2023 HUHBG HU326
+IMED 225 01 3.00 Design Tools and Processes IMED 225 01
+Page 16 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Interactive Media
+00:00 AM 00:00 AM 01/07/2023 04/27/2023 Open to Philadelphia
+AOC AOC
+W 03:30 PM 06:30 PM 01/11/2023 01/11/2023 SVC VIRTU
+W 03:30 PM 06:30 PM 01/25/2023 01/25/2023 SVC VIRTU
+W 03:30 PM 06:30 PM 02/08/2023 02/08/2023 SVC VIRTU
+W 03:30 PM 06:30 PM 02/22/2023 02/22/2023 SVC VIRTU
+W 03:30 PM 06:30 PM 03/22/2023 03/22/2023 SVC VIRTU
+W 03:30 PM 06:30 PM 04/19/2023 04/19/2023 SVC VIRTU
+IMED 230 01 3.00 Fnds & Strategies of Marketing IMED 230 01
+Kelly Boudreau T 10:00 AM 01:00 PM 01/07/2023 04/27/2023 Open to Philadelphia HUHBG HU326 1012
+IMED 245 01 3.00 Intro to Game Design FundamentalsIMED 245 01
+Caleb Smith F 12:15 PM 02:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1012
+IMED 250 01 2.00 Video Production I IMED 250 01
+Caleb Smith R 10:00 AM 01:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1012
+IMED 255 01 3.00 Audio Production IMED 255 01
+Sa Liu TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1302
+IMED 265 01 3.00 Front-End Web Development IMED 265 01
+Page 17 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Interactive Media
+00:00 AM 00:00 AM 01/07/2023 04/27/2023 AOC AOC
+M 03:30 PM 06:30 PM 01/09/2023 01/09/2023 SVC VIRTU
+M 03:30 PM 06:30 PM 01/23/2023 01/23/2023 SVC VIRTU
+M 03:30 PM 06:30 PM 02/06/2023 02/06/2023 SVC VIRTU
+M 03:30 PM 06:30 PM 02/20/2023 02/20/2023 SVC VIRTU
+M 03:30 PM 06:30 PM 03/20/2023 03/20/2023 SVC VIRTU
+M 03:30 PM 06:30 PM 04/17/2023 04/17/2023 SVC VIRTU
+IMED 275 01 3.00 Mkt Analytics & Perf Optimization IMED 275 01
+Beverly Sage TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 Open to Philadelphia SVC VIRTU
+IMED 310 01 3.00 3D Modeling II IMED 310 01
+Anthony Ortega F 09:00 AM 12:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1358
+IMED 315 01 3.00 Tabletop Game Design Studio IMED 315 01
+Robert Furey MW 12:15 PM 01:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1254
+IMED 320 01 3.00 Creative Writing IMED 320 01
+Page 18 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Interactive Media
+Charles LaMonte Palmer 00:00 AM 00:00 AM 01/07/2023 04/27/2023 AOC AOC
+Charles LaMonte Palmer W 03:30 PM 06:30 PM 01/11/2023 01/11/2023 SVC VIRTU
+Charles LaMonte Palmer W 03:30 PM 06:30 PM 01/25/2023 01/25/2023 SVC VIRTU
+Charles LaMonte Palmer W 03:30 PM 06:30 PM 02/08/2023 02/08/2023 SVC VIRTU
+Charles LaMonte Palmer W 03:30 PM 06:30 PM 02/22/2023 02/22/2023 SVC VIRTU
+Charles LaMonte Palmer W 03:30 PM 06:30 PM 03/22/2023 03/22/2023 SVC VIRTU
+Charles LaMonte Palmer W 03:30 PM 06:30 PM 04/19/2023 04/19/2023 SVC VIRTU
+IMED 333 01 3.00 Scoial Media Marketing IMED 333 01
+Sa Liu W 03:30 PM 06:30 PM 01/07/2023 04/27/2023 HUHBG HU326 1302
+IMED 335 01 3.00 Introduction to Game Engines IMED 335 01
+Caleb Smith TR 08:25 AM 09:55 AM 01/07/2023 04/27/2023 HUHBG HU326 1012
+IMED 370 01 3.00 Producing Creative Projects IMED 370 01
+Justin A Sabo TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 Open to Philadelphia SVC VIRTU
+IMED 388 01 3.00 Games User Interface & Level DesignIMED 388 01
+Tanner Reckling TR 12:05 PM 02:05 PM 01/07/2023 04/27/2023 Open to Philadelphia SVC VIRTU
+IMED 440 01 4.00 Interactive Studio IMED 440 01
+Charles LaMonte Palmer TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 Open to Philadelphia SVC VIRTU
+IMED 460 01 3.00 Designing for Extended Reality IMED 460 01
+Integrative Science
+Yiben Wang MWF 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1258
+INSC 115 01 3.00 The Chemistry of Life INSC 115 01
+Page 19 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Integrative Science
+Andrea M Nagy MWF 01:20 PM 02:20 PM 01/07/2023 04/27/2023 HUHBG HU326 1054
+INSC 115 02 3.00 The Chemistry of Life INSC 115 02
+Andrea M Nagy MW 03:30 PM 05:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1054
+INSC 115 03 3.00 The Chemistry of Life INSC 115 03
+Karma Pace TR 12:30 PM 02:05 PM 01/07/2023 04/27/2023 HUPHI PHILA 125
+INSC 115 P1 3.00 The Chemistry of Life INSC 115 P1
+Robert Furey 00:00 AM 00:00 AM 01/07/2023 04/27/2023 Field trip required HUHBG HU326
+INSC 336 01 3.00 Field Studies: Tropical EcosystemsINSC 336 01
+Information Sys & Info Tech
+Wouter Paul Popelier TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 Open to Philadelphia HUHBG HU326 1358
+ISIT 140 01 3.00 Introduction to Information SystemsISIT 140 01
+Stephanie Hofer TR 10:00 AM 12:00 PM 01/07/2023 04/27/2023 HUHBG HU326 1054
+ISIT 220 01 4.00 Data and Information ManagementISIT 220 01
+Wouter Paul Popelier TR 05:00 PM 06:30 PM 01/07/2023 04/27/2023 HUHBG HU326 1358
+ISIT 335 01 3.00 Applied Operating Systems ISIT 335 01
+Mathematics
+Thi Phung MWF 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1058
+MATH 081 01 3.00 Prealgebra MATH 081 01
+Mike Eck TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUPHI PHILA 112
+MATH 081 P1 3.00 Prealgebra MATH 081 P1
+Page 20 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Mathematics
+Akeisha Belgrave MWF 10:05 AM 11:35 AM 01/07/2023 04/27/2023 HUHBG HU326 1004
+MATH 120 01 3.00 College Algebra I MATH 120 01
+Mike Eck MWF 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUPHI PHILA 112
+MATH 120 P1 3.00 College Algebra I MATH 120 P1
+Mark Alwine TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1358
+MATH 150 01 3.00 Applied Mathematical Reasoning MATH 150 01
+Panakkal Mathew TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUPHI PHILA 113
+MATH 150 P1 3.00 Applied Mathematical Reasoning MATH 150 P1
+Mark Alwine TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1358
+MATH 220 01 3.00 Calculus I MATH 220 01
+Thi Phung MWF 11:10 AM 12:10 PM 01/07/2023 04/27/2023 HUHBG HU326 1058
+MATH 220 02 3.00 Calculus I MATH 220 02
+Mark Alwine MW 11:10 AM 12:10 PM 01/07/2023 04/27/2023 HUHBG HU326 1204
+Mark Alwine F 11:10 AM 12:10 PM 01/07/2023 04/27/2023 SVC VIRTU
+MATH 220 03 3.00 Calculus I MATH 220 03
+Panakkal Mathew TR 08:25 AM 09:55 AM 01/07/2023 04/27/2023 HUPHI PHILA 113
+MATH 220 P1 3.00 Calculus I MATH 220 P1
+Thi Phung TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1058
+MATH 250 01 3.00 Introduction to Linear Algebra MATH 250 01
+Thi Phung MW 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1058
+Thi Phung F 12:15 PM 01:15 PM 01/07/2023 04/27/2023 SVC VIRTU
+MATH 250 02 3.00 Introduction to Linear Algebra MATH 250 02
+Page 21 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Mathematics
+Panakkal Mathew TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUPHI PHILA 113
+MATH 250 P1 3.00 Introduction to Linear Algebra MATH 250 P1
+Justin Lawrence MWF 01:20 PM 02:20 PM 01/07/2023 04/27/2023 HUHBG HU326
+MATH 260 01 3.00 Calculus II MATH 260 01
+Samuel Benigni TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1212
+MATH 261 01 3.00 Calculus III MATH 261 01
+Sarah Baxter MWF 10:05 AM 11:05 AM 01/07/2023 04/27/2023 HUHBG HU326 1246
+MATH 280 01 3.00 Introductory Statistics MATH 280 01
+Sarah Baxter TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1254
+MATH 280 02 3.00 Introductory Statistics MATH 280 02
+Sarah Baxter MWF 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1246
+MATH 280 03 3.00 Introductory Statistics MATH 280 03
+Mark Alwine T 08:25 AM 09:55 AM 01/07/2023 04/27/2023 HUHBG HU326 1358
+Mark Alwine R 08:25 AM 09:55 AM 01/07/2023 04/27/2023 SVC VIRTU
+MATH 280 04 3.00 Introductory Statistics MATH 280 04
+Panakkal Mathew TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUPHI PHILA 113
+MATH 280 P1 3.00 Introductory Statistics MATH 280 P1
+Sarah Baxter MWF 01:20 PM 02:20 PM 01/07/2023 04/27/2023 HUHBG HU326 1246
+MATH 300 01 3.00 Experiment Design and Analysis MATH 300 01
+Chad Van Chu MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1054
+MATH 310 01 3.00 Discrete Mathematics II MATH 310 01
+Page 22 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Mathematics
+Chad Van Chu MWF 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1054
+MATH 310 02 3.00 Discrete Mathematics II MATH 310 02
+Chad Van Chu TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUPHI PHILA 124
+MATH 310 P1 3.00 Discrete Mathematics II MATH 310 P1
+Justin Lawrence MWF 03:30 PM 04:30 PM 01/07/2023 04/27/2023 HUHBG HU326
+MATH 320 01 3.00 Ordinary Differential Equations MATH 320 01
+Samuel Benigni TR 12:35 PM 02:05 PM 01/07/2023 04/27/2023 HUHBG HU326 1212
+MATH 380 01 3.00 Mathematical Modeling MATH 380 01
+Management & E-Business
+Barbara Geisler MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1058
+MEBA 110 01 3.00 Intr to Business & Entrepre MEBA 110 01
+Barbara Geisler 00:00 AM 00:00 AM 01/07/2023 04/27/2023 HUPHI PHILA
+MEBA 110 P1 3.00 Intr to Business & Entrepre MEBA 110 P1
+R. Lynn Burkholder TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1054
+MEBA 230 01 3.00 Marketing MEBA 230 01
+Sandra Jumper TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1204
+MEBA 335 01 3.00 Business Law and Ethics MEBA 335 01
+Joseph Deklinski TR 10:00 AM 11:30 AM 01/07/2023 04/27/2023 HUHBG HU326 1312
+MEBA 340 01 3.00 Intr to Innovation & Des Thinking MEBA 340 01
+Obinna Okoye TR 03:15 PM 04:45 PM 01/07/2023 04/27/2023 HUHBG HU326 1252
+MEBA 350 01 3.00 Finance MEBA 350 01
+Page 23 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Management & E-Business
+Joseph Zagerman MWF 09:00 AM 10:00 AM 01/07/2023 04/27/2023 HUHBG HU326 1258
+MEBA 375 01 3.00 Statistics for Managers MEBA 375 01
+Stephen Paul Penn MWF 11:10 AM 12:10 PM 01/07/2023 04/27/2023 HUHBG HU326 1046
+MEBA 382 01 3.00 Research Design & Methodology MEBA 382 01
+Stephen Paul Penn MWF 01:20 PM 02:20 PM 01/07/2023 04/27/2023 HUHBG HU326 1046
+MEBA 432 01 3.00 Mgmt & Innovation Strategies MEBA 432 01
+Physics
+Akeisha Belgrave MWF 12:15 PM 01:15 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+PHYS 121 01 3.00 General Physics I Lect PHYS 121 01
+Justin Lawrence T 03:30 PM 06:30 PM 01/07/2023 04/27/2023 Lab component for PHYS 121 HUHBG HU326 1002
+PHYS 122 01 1.00 General Physics I Lab PHYS 122 01
+Justin Lawrence MWF 11:10 AM 12:10 PM 01/07/2023 04/27/2023 HUHBG HU326
+PHYS 131 01 3.00 General Physics II Lecture PHYS 131 01
+Justin Lawrence R 03:15 PM 06:15 PM 01/07/2023 04/27/2023 Lab component for PHYS 131 HUHBG HU326 1002
+PHYS 132 01 1.00 General Physics II Lab PHYS 132 01
+Academic Success
+Malik Potter W 02:25 PM 03:25 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+SEMR 100 01 1.00 Cornerstone SEMR 100 01
+Jordan L Snavely W 02:25 PM 03:25 PM 01/07/2023 04/27/2023 HUPHI PHILA 109
+SEMR 100 P1 1.00 Cornerstone SEMR 100 P1
+Page 24 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Academic Success
+Andrea M Nagy M 02:25 PM 03:25 PM 01/07/2023 04/27/2023 HUHBG HU326 1054
+SEMR 200 01 1.00 Steppingstone SEMR 200 01
+Rebekah Elbel Harriger T 02:10 PM 03:10 PM 01/07/2023 04/27/2023 HUHBG HU326 1004
+SEMR 200 02 1.00 Steppingstone SEMR 200 02
+SEMR 298 01 3.00 Project I Registration Prep SEMR 298 01
+SEMR 298 P1 3.00 Project I Registration Prep SEMR 298 P1
+SEMR 365 01 3.00 Internship Registration Prep SEMR 365 01
+SEMR 365 P1 3.00 Internship Registration Prep SEMR 365 P1
+Albert Sarvis W 02:25 PM 03:25 PM 01/07/2023 04/27/2023 HUHBG HU326
+SEMR 400 01 1.00 Capstone SEMR 400 01
+Christine Marie Proctor 00:00 AM 00:00 AM 01/07/2023 04/27/2023 Asynchronous Online Course
+AOC AOC
+SEMR 400 90 1.00 Capstone SEMR 400 90
+SEMR 498 01 3.00 Project II Registration Prep SEMR 498 01
+SEMR 498 P1 3.00 Project II Registration Prep SEMR 498 P1
+Computer & Information Science
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+CISC 103 90 S1 4.00 Intro to Computers & Info SciencesCISC 103 90 S1 E
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+CISC 120 90 S1 4.00 Programming I CISC 120 90 S1 E
+Page 25 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Communication
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+COMM 110 90 S1 3.00 Speech COMM 110 90 S1 E
+Cybersecurity Oper & Mgmt
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+CYOM 105 90 S1 3.00 Introduction to Cybersecurity CYOM 105 90 S1 E
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+CYOM 230 90 S1 3.00 Cyber Defense CYOM 230 90 S1 E
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+CYOM 322 90 S1 3.00 Fund Security Design Principles CYOM 322 90 S1 E
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+CYOM 430 90 S1 3.00 Prin of Secure Database Design CYOM 430 90 S1 E
+English
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+ENGL 105 90 S1 3.00 College Composition ENGL 105 90 S1 E
+Esports Management
+Zac Goren 00:00 AM 00:00 AM 01/09/2023 02/22/2023 AOC AOC
+ESPT 110 90 S1 1.00 Competitive Gaming Seminar ESPT 110 90 S1 E
+Jennifer Metz 00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+ESPT 210 90 S1 4.00 Contemporary Issues in Esports ESPT 210 90 S1 E
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+ESPT 220 90 S1 4.00 Social Media Management ESPT 220 90 S1 E
+Page 26 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Esports Management
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+ESPT 310 90 S1 4.00 Live Event Management ESPT 310 90 S1 E
+Gen Ed/Learning Communities
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+GEND 102 90 S1 3.00 The Creative Mind I GEND 102 90 S1 E
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+GEND 103 90 S1 3.00 The Creative Mind II GEND 103 90 S1 E
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+GEND 109 90 S1 3.00 Meteorology GEND 109 90 S1 E
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+GEND 425 90 S1 3.00 Globalization GEND 425 90 S1 E
+Integrative Science
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+INSC 115 90 S1 3.00 The Chemistry of Life INSC 115 90 S1 E
+Mathematics
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+MATH 120 90 S1 3.00 College Algebra I MATH 120 90 S1 E
+Academic Success
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+SEMR 100 90 S1 1.00 Cornerstone SEMR 100 90 S1 E
+Page 27 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Academic Success
+00:00 AM 00:00 AM 01/09/2023 02/25/2023 AOC AOC
+SEMR 200 90 S1 1.00 Steppingstone SEMR 200 90 S1 E
+SEMR 298 90 S1 3.00 Project I Registration Prep SEMR 298 90 S1 E
+Computer & Information Science
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+CISC 103 91 S2 4.00 Intro to Computers & Info SciencesCISC 103 91 S2 F
+Brian Grey 00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+CISC 160 90 S2 3.00 Data Structures CISC 160 90 S2 F
+Cybersecurity Oper & Mgmt
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+CYOM 340 90 S2 3.00 Cybersecurity Systems Admin CYOM 340 90 S2 F
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+CYOM 410 90 S2 3.00 Cloud Cybersecurity and Governance
+CYOM 410 90 S2 F
+English
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+ENGL 105 91 S2 3.00 College Composition ENGL 105 91 S2 F
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+ENGL 200 90 S2 3.00 Adv Composition & Technical Writing
+ENGL 200 90 S2 F
+Page 28 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Esports Management
+Justin Jacobson 00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+ESPT 120 90 S2 4.00 Introduction to Esports ESPT 120 90 S2 F
+Jennifer Metz 00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+ESPT 230 90 S2 3.00 Esports Broadcasting ESPT 230 90 S2 F
+Gen Ed/Learning Communities
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+GEND 102 91 S2 3.00 The Creative Mind I GEND 102 91 S2 F
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+GEND 103 91 S2 3.00 The Creative Mind II GEND 103 91 S2 F
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+GEND 113 90 S2 3.00 Scientific Mind: Life Sciences GEND 113 90 S2 F
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+GEND 215 90 S2 3.00 The Civic Mind GEND 215 90 S2 F
+Mathematics
+Ian Winn 00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+MATH 120 91 S2 3.00 College Algebra I MATH 120 91 S2 F
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+MATH 210 90 S2 3.00 Discrete Mathematics I MATH 210 90 S2 F
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+MATH 310 90 S2 3.00 Discrete Mathematics II MATH 310 90 S2 F
+Page 29 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedule Sorted by Subterm
+Harrisburg University of Science and Technology 2022-2023 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Subterms E and F for HU Online students only
+Management & E-Business
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+MEBA 220 90 S2 3.00 Prin Business Mgmt MEBA 220 90 S2 F
+Academic Success
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+SEMR 100 91 S2 1.00 Cornerstone SEMR 100 91 S2 F
+SEMR 298 91 S2 3.00 Project I Registration Prep SEMR 298 91 S2 F
+00:00 AM 00:00 AM 03/06/2023 04/22/2023 AOC AOC
+SEMR 300 90 S2 1.00 Keystone SEMR 300 90 S2 F
+Page 30 of 30
+Revised: 11/9/2022 Textbook Information is available under the Academics tab of the myHU portal.
+

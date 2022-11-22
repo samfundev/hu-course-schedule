@@ -11,14 +11,14 @@
   // https://github.com/sveltejs/svelte/issues/1591
   let loaded = false;
 
-  const terms = ["Spring 2021", "Summer 2022", "Fall 2022"];
+  const terms = ["Spring 2021", "Summer 2022", "Fall 2022", "Spring 2022"];
   let term;
   let lastTerm;
 
   const timeSlotRegex =
     /^(.+?) (?:([MTWRF]+) )?(\d{1,2}:\d{2} [AP]M) (\d{1,2}:\d{2} [AP]M)/;
   const courseRegex =
-    /^([A-Z]{4}) (\d+) (\d+) (\d+\.\d+) (.+) \1 \2 \3(?: \d+ \/ \d+)?$/;
+    /^([A-Z]{4}) (\d+) (\d+) (\d+\.\d+) (.+) ?\1 \2 \3(?: \d+ \/ \d+)?$/;
   let courses: Course[] = [];
   let minHours = 24;
   let maxHours = 0;
