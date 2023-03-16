@@ -8,9 +8,6 @@
 
   // TODO: Conflicts
 
-  // https://github.com/sveltejs/svelte/issues/1591
-  let loaded = false;
-
   const terms = ["Spring 2021", "Summer 2022", "Fall 2022", "Spring 2022"];
   let term;
   let lastTerm;
@@ -61,8 +58,6 @@
       lastTerm = term;
 
       if (!parsedHash) parseHash();
-
-      loaded = true;
     });
   }
 
@@ -193,9 +188,9 @@
 
 <div class="container" class:sidebar-open={sidebarOpen}>
   <div class="app">
-    {#if !loaded}
+    {#await coursePromise}
       <div>Loading...</div>
-    {:else}
+    {:then}
       <Schedule schedule={currentSchedule} />
       <div style="display: flex; justify-content:center; gap: 5px;">
         <button
@@ -217,7 +212,7 @@
           }}>Forward</button
         >
       </div>
-    {/if}
+    {/await}
   </div>
   <div class="sidebar">
     <div style="display: flex; flex-direction: column; gap: 5px;">
