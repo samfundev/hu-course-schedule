@@ -8,7 +8,7 @@
 
   // TODO: Conflicts
 
-  const terms = ["Spring 2021", "Summer 2022", "Fall 2022", "Spring 2022"];
+  const terms = ["Spring 2021", "Summer 2022", "Fall 2022", "Spring 2022", "Fall 2023"];
   let term;
   let lastTerm;
 
