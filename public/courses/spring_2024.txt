@@ -1,0 +1,829 @@
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Advanced Manufacturing
+Richard Pitts MW 09:00 AM 10:30 AM 01/06/2024 04/25/2024 HUHBG HU222 306
+ADMA 115 01 3.00 Microcomputer Applications in Tech
+ADMA 115 01
+Justin D Zigner MW 10:35 AM 12:05 PM 01/06/2024 04/25/2024 HUHBG HU222 313
+ADMA 160 01 3.00 Metallic Materials & ManufacturingADMA 160 01
+Glenn P. Williams MW 12:15 PM 01:45 PM 01/06/2024 04/25/2024 HUHBG HU222 308
+ADMA 230 01 3.00 Appld Analog & Digital Electronics ADMA 230 01
+Richard Pitts M 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU222 310
+ADMA 298 01 3.00 ADMA Project I ADMA 298 01
+Glenn P. Williams TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUHBG HU222 308
+ADMA 310 01 3.00 Basics of Manufacturing Simulation
+ADMA 310 01
+Cyrian Onyekachi Ekeagwu W 06:00 PM 09:00 PM 01/06/2024 04/25/2024 HUHBG HU222 306
+ADMA 323 01 3.00 Computer Assisted Product DesignADMA 323 01
+Justin D Zigner TR 12:05 PM 01:35 PM 01/06/2024 04/25/2024 HUHBG HU222 313
+ADMA 338 01 3.00 Non-Metallic Materials & Processing
+ADMA 338 01
+Matthew Rissler M 06:00 PM 09:00 PM 01/06/2024 04/25/2024 HUHBG HU222 306
+ADMA 340 01 3.00 Digitally Enhanced Manufacturing ADMA 340 01
+Richard Pitts MW 12:15 PM 01:45 PM 01/06/2024 04/25/2024 HUHBG HU222 310
+ADMA 410 01 3.00 CAD/CAM and Industrial Robotics II
+ADMA 410 01
+Justin D Zigner TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUHBG HU222 313
+ADMA 480 01 3.00 Advanced Manufacturing II ADMA 480 01
+Richard Pitts M 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU222 310
+ADMA 498 01 3.00 ADMA Project II ADMA 498 01
+Page 1 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Analytics
+Brian Myers MWF 12:15 PM 01:15 PM 01/06/2024 04/25/2024 Virtual class meetings
+SVC VIRTU
+ANLY 415 01 3.00 Advanced Analytics and Reporting ANLY 415 01
+Biology
+Dana Harriger MWF 01:20 PM 02:20 PM 01/06/2024 04/25/2024 HUHBG HU326
+BIOL 102 01 3.00 General Biology Lecture BIOL 102 01
+Dana Harriger T 08:00 AM 11:00 AM 01/06/2024 04/25/2024 Lab component for BIOL 102
+HUHBG HU326
+BIOL 103 01 1.00 General Biology Laboratory BIOL 103 01
+Akeisha Belgrave MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326
+BIOL 281 01 3.00 Cell Biology Lecture BIOL 281 01
+Catherine Santai T 11:10 AM 02:10 PM 01/06/2024 04/25/2024 HUHBG HU326 1102
+BIOL 282 01 1.00 Cell Biology Laboratory BIOL 282 01
+Natasha Clarke MF 11:40 AM 01:10 PM 01/06/2024 04/25/2024 HUHBG HU326
+Natasha Clarke T 03:30 PM 06:30 PM 01/06/2024 04/25/2024 Lab component
+HUHBG HU326
+BIOL 295 01 4.00 Human Anatomy and Physiology IIBIOL 295 01
+Bernardo Mesa MW 03:30 PM 05:00 PM 01/06/2024 04/25/2024 HUHBG HU222 613
+BIOL 320 01 3.00 Genetics BIOL 320 01
+Dana Harriger T 11:10 AM 02:10 PM 01/06/2024 04/25/2024 HUHBG HU222 613
+Dana Harriger R 11:10 AM 02:10 PM 01/06/2024 04/25/2024 Lab component
+HUHBG HU222 609
+BIOL 330 01 4.00 Microbiology BIOL 330 01
+Dana Harriger MWF 09:00 AM 10:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+BIOL 380 01 3.00 ST: Nutrition BIOL 380 01
+Page 2 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Biology
+Bernardo Mesa T 08:00 AM 11:00 AM 01/06/2024 04/25/2024 Lab component of BIOL 320
+HUHBG HU222 704
+BIOL 380 02 1.00 ST: Genetics Lab BIOL 380 02
+Biotechnology
+Jacquelyn Maddox MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326
+BTEC 170 01 3.00 Introduction to Biotechnology BTEC 170 01
+MW 06:00 PM 08:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+BTEC 216 01 4.00 Prin of Physics for Nanobiot BTEC 216 01
+Christine Skibinski TR 12:05 PM 01:35 PM 01/06/2024 04/25/2024 HUHBG HU326
+Christine Skibinski W 10:00 AM 01:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+BTEC 235 01 4.00 Applied Cell and Agro Culture BTEC 235 01
+Jacquelyn Maddox T 11:10 AM 02:10 PM 01/06/2024 04/25/2024 HUHBG HU326 1314
+BTEC 240 01 3.00 Techniques for Biomolecular Resrch
+BTEC 240 01
+Mrunalini V Pattarkine TR 08:25 AM 09:55 AM 01/06/2024 04/25/2024 Virtual class meetings
+SVC VIRTU
+BTEC 250 01 3.00 Medical Biotechnologies of 2020 BTEC 250 01
+Jacquelyn Maddox W 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU326
+BTEC 298 01 3.00 BTEC Project I BTEC 298 01
+T 06:00 PM 09:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+BTEC 340 01 3.00 Forensic Biotechnology BTEC 340 01
+Christine Skibinski TR 08:25 AM 09:55 AM 01/06/2024 04/25/2024 HUHBG HU326
+Christine Skibinski M 10:00 AM 01:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+BTEC 351 01 4.00 Biotechnology Applications BTEC 351 01
+Page 3 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Biotechnology
+Jacquelyn Maddox W 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU326
+BTEC 498 01 3.00 BTEC Project II BTEC 498 01
+Chemistry
+Yiben Wang MWF 09:00 AM 10:00 AM 01/06/2024 04/25/2024 HUHBG HU326 1258
+CHEM 161 01 3.00 General Chemistry Lecture II CHEM 161 01
+Yiben Wang T 11:10 AM 02:10 PM 01/06/2024 04/25/2024 Lab component for CHEM 161
+HUHBG HU326 1214
+CHEM 162 01 1.00 General Chemistry Laboratory II CHEM 162 01
+Andrea M Nagy MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326
+Andrea M Nagy T 03:15 PM 06:15 PM 01/06/2024 04/25/2024 Lab component
+HUHBG HU326 1214
+CHEM 220 01 4.00 Organic Chemistry II CHEM 220 01
+Catherine Santai MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326
+Catherine Santai R 08:00 AM 11:00 AM 01/06/2024 04/25/2024 HUHBG HU326 1214
+CHEM 350 01 4.00 Biochemistry II CHEM 350 01
+Yiben Wang MWF 12:15 PM 01:15 PM 01/06/2024 04/25/2024 HUHBG HU326 1212
+CHEM 380 01 3.00 ST:Introduction to Green Chemistry
+CHEM 380 01
+Computer & Information Science
+Philip Alan Grim MW 10:05 AM 12:05 PM 01/06/2024 04/25/2024 HUHBG HU326
+CISC 120 01 4.00 Programming I CISC 120 01
+Philip Alan Grim MW 03:30 PM 05:30 PM 01/06/2024 04/25/2024 HUHBG HU326
+CISC 120 02 4.00 Programming I CISC 120 02
+Page 4 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Computer & Information Science
+Mike Eck TR 12:05 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU326
+CISC 120 P1 4.00 Programming I CISC 120 P1
+Nathan Cook TR 12:05 PM 01:35 PM 01/06/2024 04/25/2024 HUHBG HU326
+CISC 140 01 3.00 Programming II CISC 140 01
+Brian Grey MWF 09:00 AM 10:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+CISC 160 01 3.00 Data Structures CISC 160 01
+Noor Albarakati TR 12:35 PM 02:05 PM 01/06/2024 04/25/2024 HUPHI PHILA
+CISC 160 P1 3.00 Data Structures CISC 160 P1
+Shahnoor Shanta TR 12:05 PM 02:05 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+CISC 211 01 4.00 Computer Organization & Archiecture
+CISC 211 01
+Mina Gabriel MW 10:05 AM 11:35 AM 01/06/2024 04/25/2024 HUHBG HU326 1104
+CISC 225 01 3.00 Information Syst Analysis & DesignCISC 225 01
+Mina Gabriel MW 12:15 PM 01:45 PM 01/06/2024 04/25/2024 HUHBG HU326 1104
+CISC 225 02 3.00 Information Syst Analysis & DesignCISC 225 02
+Noor Albarakati MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUPHI PHILA
+CISC 225 P1 3.00 Information Syst Analysis & DesignCISC 225 P1
+Mina Gabriel MW 03:30 PM 05:00 PM 01/06/2024 04/25/2024 HUHBG HU326 1104
+CISC 233 01 3.00 Essential Algorithms CISC 233 01
+Andrew Kane TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUPHI PHILA
+CISC 233 P1 3.00 Essential Algorithms CISC 233 P1
+Philip Alan Grim 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+CISC 298 01 3.00 CISC Project I CISC 298 01
+Page 5 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Computer & Information Science
+Mike Eck 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+CISC 298 P1 3.00 CISC Project I CISC 298 P1
+Daqing Yun MW 09:00 AM 10:30 AM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+CISC 301 01 3.00 Operating Systems CISC 301 01
+Shahnoor Shanta TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+CISC 325 01 3.00 Programming Languages Concepts
+CISC 325 01
+Brian Grey MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326 1112
+CISC 333 01 3.00 Defensive Programming CISC 333 01
+Brian Grey MF 12:15 PM 02:15 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326 1112
+CISC 340 01 4.00 Intro to Artificial Intelligence CISC 340 01
+Philip Alan Grim F 09:00 AM 12:00 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+CISC 349 01 3.00 Smart Phones Programming CISC 349 01
+Shahnoor Shanta W 11:10 AM 02:10 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+CISC 399 01 3.00 Formal Languages & Automata Theory
+CISC 399 01
+Philip Alan Grim WF 12:50 PM 02:20 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+CISC 431 01 3.00 Natural Language Procssing CISC 431 01
+Philip Alan Grim 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+CISC 498 01 3.00 CISC Project II CISC 498 01
+Mike Eck 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+CISC 498 P1 3.00 CISC Project II CISC 498 P1
+Thomas Sarachan 00:00 AM 00:00 AM 01/06/2024 04/25/2024 AOC AOC
+CISC 499 90 3.00 Industry Software Ethics GEND 465 90
+Page 6 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Communication
+Jennifer Grace Angstadt MWF 09:00 AM 10:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+COMM 110 01 3.00 Speech COMM 110 01
+Jennifer Grace Angstadt MW 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326
+Jennifer Grace Angstadt F 10:05 AM 11:05 AM 01/06/2024 04/25/2024 Virtual class meetings
+SVC VIRTU
+COMM 110 02 3.00 Speech COMM 110 02
+Jennifer Grace Angstadt MW 12:15 PM 01:15 PM 01/06/2024 04/25/2024 HUHBG HU326
+Jennifer Grace Angstadt F 12:15 PM 01:15 PM 01/06/2024 04/25/2024 Virtual class meetings
+SVC VIRTU
+COMM 110 03 3.00 Speech COMM 110 03
+Julie Alison Doxsee MWF 11:10 AM 12:10 PM 01/06/2024 04/25/2024 HUHBG HU326
+COMM 110 04 3.00 Speech COMM 110 04
+Julie Alison Doxsee TR 12:35 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU326
+COMM 110 05 3.00 Speech COMM 110 05
+Julie Alison Doxsee TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUHBG HU326
+COMM 110 06 3.00 Speech COMM 110 06
+Lauren Marfo MWF 01:20 PM 02:20 PM 01/06/2024 04/25/2024 HUPHI PHILA
+COMM 110 P1 3.00 Speech COMM 110 P1
+English
+Jennifer Grace Angstadt TR 12:35 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU326
+ENGL 105 01 3.00 College Composition ENGL 105 01
+Lauren Marfo TR 03:15 PM 04:45 PM 01/06/2024 04/25/2024 HUPHI PHILA
+ENGL 105 P1 3.00 College Composition ENGL 105 P1
+Page 7 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+English
+Julie Alison Doxsee MWF 09:00 AM 10:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+ENGL 200 01 3.00 Adv Composition & Technical Writing
+ENGL 200 01
+Lauren Marfo TR 12:35 PM 02:05 PM 01/06/2024 04/25/2024 HUPHI PHILA
+ENGL 200 P1 3.00 Adv Composition & Technical Writing
+ENGL 200 P1
+Engineering
+Noor Albarakati MWF 03:30 PM 04:30 PM 01/06/2024 04/25/2024 SVC VIRTU
+ENGR 106 01 3.00 ST: Prin of Programming with Python
+ENGR 106 01
+Andrea M Nagy MWF 11:10 AM 12:10 PM 01/06/2024 04/25/2024 HUHBG HU326
+ENGR 220 01 3.00 Chemical Prin for Engineering LectENGR 220 01
+Andrea M Nagy T 08:00 AM 11:00 AM 01/06/2024 04/25/2024 Lab component of ENGR 220
+HUHBG HU326 1214
+ENGR 221 01 1.00 Chemical Prin of Engineering Lab ENGR 221 01
+Entertainment Technology
+Logan Wintersteen 00:00 AM 00:00 AM 01/08/2024 02/26/2024 AOC AOC
+ENTE 101 90 SA 3.00 Audio Engineering: Pro Tools 1 ENTE 101 90 S1 A
+Logan Wintersteen 00:00 AM 00:00 AM 01/08/2024 02/26/2024 AOC AOC
+ENTE 102 90 SA 3.00 Video Editing: Media Composer 1 ENTE 102 90 S1 A
+Logan Wintersteen 00:00 AM 00:00 AM 03/04/2024 04/22/2024 AOC AOC
+ENTE 201 91 SB 3.00 Audio Engineering: Pro Tools 2 ENTE 201 91 S2 B
+Logan Wintersteen 00:00 AM 00:00 AM 03/04/2024 04/22/2024 AOC AOC
+ENTE 202 91 SB 3.00 Video Editing: Media Composer 2 ENTE 202 91 S2 B
+Page 8 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Entertainment Technology
+Michael D'Errico 00:00 AM 00:00 AM 03/04/2024 04/22/2024 AOC AOC
+ENTE 230 91 SB 3.00 Pro Tools for Game Audio ENTE 230 91 S2 B
+Environmental Science
+Jennifer Sliko T 12:35 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU326 1204
+Jennifer Sliko R 12:35 PM 02:05 PM 01/06/2024 04/25/2024 Lab component
+SVC VIRTU
+Jennifer Sliko T 09:00 AM 12:00 PM 01/06/2024 04/25/2024 HUHBG HU326 1202
+ENVS 101 01 4.00 Intro to Environmental Science ENVS 101 01
+Rachel Fogle W 03:30 PM 04:30 PM 01/06/2024 04/25/2024 HUHBG HU326 1102
+ENVS 110 01 1.00 Intr to Controlled Environm Agr ENVS 110 01
+Michael B Meyer MW 12:15 PM 01:45 PM 01/06/2024 04/25/2024 HUHBG HU326 1354
+ENVS 211 01 3.00 Intro Renewable Energy Systems ENVS 211 01
+Michael B Meyer M 09:00 AM 10:30 AM 01/06/2024 04/25/2024 HUHBG HU326 1354
+Michael B Meyer W 09:00 AM 10:30 AM 01/06/2024 04/25/2024 Virtual class meetings
+SVC VIRTU
+Michael B Meyer F 09:00 AM 12:00 PM 01/06/2024 04/25/2024 HUHBG HU326 1202
+ENVS 220 01 4.00 Principles of Hydrology ENVS 220 01
+M 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU326
+ENVS 298 01 3.00 ENVS Project I ENVS 298 01
+Edward Wells TR 12:35 PM 02:05 PM 01/06/2024 04/25/2024 SVC VIRTU
+ENVS 380 01 3.00 ST: Global Climate Change ENVS 380 01
+M 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU326
+ENVS 498 01 3.00 ENVS Project II ENVS 498 01
+Page 9 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Esports Management
+Thomas Panico TR 12:05 PM 02:05 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+ESPT 120 01 4.00 Introduction to Esports ESPT 120 01
+Luke Goodling MWF 03:30 PM 04:50 PM 01/06/2024 04/25/2024 Virtual class meetings/with PH
+SVC VIRTU
+ESPT 220 01 4.00 Social Media Management ESPT 220 01
+M 06:00 PM 09:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+ESPT 230 01 3.00 Esports Broadcasting ESPT 230 01
+Jennifer Metz 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+ESPT 298 01 3.00 Project I - Esports Management ESPT 298 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+ESPT 298 P1 3.00 Project I - Esports Management ESPT 298 P1
+Tom Screech MWF 12:15 PM 01:15 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+ESPT 320 01 3.00 Esports Field Studies ESPT 320 01
+Thomas Panico TR 03:15 PM 04:45 PM 01/06/2024 04/25/2024 HUHBG HU326
+ESPT 330 01 3.00 Live Event Production ESPT 330 01
+Thomas Panico R 05:00 PM 08:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+ESPT 380 01 3.00 ST: Philosophy of Anime ESPT 380 01
+MWF 01:20 PM 02:20 PM 01/06/2024 04/25/2024 HUHBG HU326
+ESPT 380 02 3.00 ST: Shoutcasting in Esports ESPT 380 02
+Thomas Panico 00:00 AM 00:00 AM 01/08/2024 02/26/2024 HUHBG HU326
+ESPT 380 03 SA 3.00 ST: Career Development ESPT 380 03 SA A
+Jennifer Metz TR 12:05 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU326
+ESPT 420 01 4.00 Leadership ESPT 420 01
+Page 10 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Esports Management
+Jennifer Metz 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+ESPT 498 01 3.00 Project II - Esports Management ESPT 498 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+ESPT 498 P1 3.00 Project II - Esports Management ESPT 498 P1
+Experiential Learning
+Ross Gibson Delasin T 02:10 PM 03:10 PM 01/06/2024 04/25/2024 HUHBG HU326
+EXPL 100 01 1.00 Cornerstone EXPL 100 01
+Andrea M Nagy W 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU326
+EXPL 200 01 1.00 Steppingstone EXPL 200 01
+Rebekah Elbel Harriger T 02:10 PM 03:10 PM 01/06/2024 04/25/2024 HUHBG HU326 1104
+EXPL 200 02 1.00 Steppingstone EXPL 200 02
+Rebekah Elbel Harriger R 02:10 PM 03:10 PM 01/06/2024 04/25/2024 SVC VIRTU
+Rebekah Elbel Harriger R 02:10 PM 03:10 PM 01/18/2024 01/18/2024 HUPHI PHILA
+Rebekah Elbel Harriger R 02:10 PM 03:10 PM 02/01/2024 02/01/2024 HUPHI PHILA
+Rebekah Elbel Harriger R 02:10 PM 03:10 PM 02/15/2024 02/15/2024 HUPHI PHILA
+Rebekah Elbel Harriger R 02:10 PM 03:10 PM 02/29/2024 02/29/2024 HUPHI PHILA
+Rebekah Elbel Harriger R 02:10 PM 03:10 PM 03/14/2024 03/14/2024 HUPHI PHILA
+Rebekah Elbel Harriger R 02:10 PM 03:10 PM 03/28/2024 03/28/2024 HUPHI PHILA
+Rebekah Elbel Harriger R 02:10 PM 03:10 PM 04/11/2024 04/11/2024 HUPHI PHILA
+Rebekah Elbel Harriger R 02:10 PM 03:10 PM 04/25/2024 04/25/2024 HUPHI PHILA
+EXPL 200 P1 1.00 Steppingstone EXPL 200 P1
+Page 11 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Experiential Learning
+Rebekah Elbel Harriger 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+EXPL 298 01 3.00 Project I Registration Prep EXPL 298 01
+Rebekah Elbel Harriger 00:00 AM 00:00 AM 01/06/2024 04/25/2024 Philadelphia location only
+HUPHI PHILA
+EXPL 298 P1 3.00 Project I Registration Prep EXPL 298 P1
+AJ Merlino W 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU326
+EXPL 300 01 1.00 Keystone EXPL 300 01
+AJ Merlino T 02:10 PM 03:10 PM 01/06/2024 04/25/2024 SVC VIRTU
+AJ Merlino T 02:10 PM 03:10 PM 01/09/2024 01/09/2024 HUPHI PHILA
+AJ Merlino T 02:10 PM 03:10 PM 01/23/2024 01/23/2024 HUPHI PHILA
+AJ Merlino T 02:10 PM 03:10 PM 02/06/2024 02/06/2024 HUPHI PHILA
+AJ Merlino T 02:10 PM 03:10 PM 02/20/2024 02/20/2024 HUPHI PHILA
+AJ Merlino T 02:10 PM 03:10 PM 03/05/2024 03/05/2024 HUPHI PHILA
+AJ Merlino T 02:10 PM 03:10 PM 03/19/2024 03/19/2024 HUPHI PHILA
+AJ Merlino T 02:10 PM 03:10 PM 04/02/2024 04/02/2024 HUPHI PHILA
+AJ Merlino T 02:10 PM 03:10 PM 04/16/2024 04/16/2024 HUPHI PHILA
+EXPL 300 P1 1.00 Keystone EXPL 300 P1
+Rebekah Elbel Harriger 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+EXPL 365 01 3.00 Internship Registration Prep EXPL 365 01
+Rebekah Elbel Harriger 00:00 AM 00:00 AM 03/04/2024 04/22/2024 Sub-term B
+HUHBG HU326
+EXPL 365 02 SB 3.00 Internship Registration Prep EXPL 365 02 SB B
+Rebekah Elbel Harriger 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+EXPL 365 P1 3.00 Internship Registration Prep EXPL 365 P1
+Page 12 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Experiential Learning
+Albert Sarvis W 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU326
+EXPL 400 01 1.00 Capstone EXPL 400 01
+Jennifer Sliko 00:00 AM 00:00 AM 01/06/2024 04/25/2024 Open to Philadelphia
+AOC AOC
+EXPL 400 91 1.00 Capstone EXPL 400 91
+Albert Sarvis 00:00 AM 00:00 AM 03/04/2024 04/22/2024 AOC AOC
+EXPL 400 92 SB 1.00 Capstone EXPL 400 92 SB B
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+EXPL 400 P1 1.00 Capstone EXPL 400 P1
+Exercise Science
+Lori Portzer 00:00 AM 00:00 AM 01/08/2024 02/26/2024 Exercise Science program only
+AOC AOC
+EXSC 310 90 SA 3.00 Fundamentals of Exercise ScienceEXSC 310 90 SA A
+Lori Portzer 00:00 AM 00:00 AM 03/04/2024 04/22/2024 Exercise Science program only
+AOC AOC
+EXSC 360 90 SB 3.00 Exercise Physiology EXSC 360 90 SB B
+Chris Condran 00:00 AM 00:00 AM 01/08/2024 02/26/2024 Exercise Science program only
+AOC AOC
+EXSC 399 90 SA 2.00 Prof Practice in Exercise Science EXSC 399 90 SA A
+Forensics
+Jillian Kate Yeakel M 10:05 AM 11:35 AM 01/06/2024 04/25/2024 SVC VIRTU
+Jillian Kate Yeakel W 10:05 AM 11:35 AM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 125 01 3.00 Forensic Science FORS 125 01
+Page 13 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Forensics
+Jillian Kate Yeakel T 10:00 AM 11:30 AM 01/06/2024 04/25/2024 SVC VIRTU
+Jillian Kate Yeakel R 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 125 02 3.00 Forensic Science FORS 125 02
+Carrie Rowe Wise R 11:00 AM 12:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 230 01 1.00 Quality Assurance and Case MgmtFORS 230 01
+Carrie Rowe Wise M 12:35 PM 02:05 PM 01/06/2024 04/25/2024 SVC VIRTU
+Carrie Rowe Wise W 12:35 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 250 01 3.00 Forensic Photography FORS 250 01
+W 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 298 01 3.00 Project I FORS 298 01
+Jillian Kate Yeakel M 12:15 PM 01:45 PM 01/06/2024 04/25/2024 SVC VIRTU
+Jillian Kate Yeakel W 12:15 PM 01:45 PM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 325 01 3.00 Forensic Toxicology FORS 325 01
+Carrie Rowe Wise TR 08:55 AM 09:55 AM 01/06/2024 04/25/2024 Virtual class meetings
+SVC VIRTU
+Carrie Rowe Wise W 03:30 PM 06:30 PM 01/06/2024 04/25/2024 Lab component
+HUHBG HU326
+FORS 330 01 3.00 Forensic Instrumentation FORS 330 01
+Carrie Rowe Wise T 12:35 PM 02:05 PM 01/06/2024 04/25/2024 SVC VIRTU
+Carrie Rowe Wise R 12:35 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 350 01 3.00 Trace Evidence Analysis FORS 350 01
+Madyson Love T 06:00 PM 07:30 PM 01/06/2024 04/25/2024 SVC VIRTU
+Madyson Love R 06:00 PM 07:30 PM 01/06/2024 04/25/2024 TEMPL TEMPL H205
+FORS 362 01 3.00 Medico-Legal Death Investigation FORS 362 01
+Page 14 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Forensics
+Carrie Rowe Wise M 10:05 AM 11:35 AM 01/06/2024 04/25/2024 SVC VIRTU
+Carrie Rowe Wise W 10:05 AM 11:35 AM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 367 01 3.00 Evidence FORS 367 01
+Makayla Raby 00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 385 01 3.00 Advanced Crime Scene Interpretation
+FORS 385 01
+W 02:25 PM 03:25 PM 01/06/2024 04/25/2024 HUHBG HU326
+FORS 498 01 3.00 Project II FORS 498 01
+Gen Ed/Learning Communities
+Caleb Smith MWF 11:10 AM 12:10 PM 01/06/2024 04/25/2024 HUHBG HU326
+GEND 102 01 3.00 The Creative Mind I GEND 102 01
+Jaime Gibson MW 11:10 AM 12:40 PM 01/06/2024 04/25/2024 HUHBG HU326
+GEND 103 01 3.00 The Creative Mind II GEND 103 01
+Dawn Spaar MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326 1054
+GEND 103 02 3.00 The Creative Mind II GEND 103 02
+Dawn Spaar MWF 11:10 AM 12:10 PM 01/06/2024 04/25/2024 HUHBG HU326 1054
+GEND 103 03 3.00 The Creative Mind II GEND 103 03
+Elizabeth Hockley MWF 12:15 PM 01:15 PM 01/06/2024 04/25/2024 HUHBG HU326
+GEND 103 04 3.00 The Creative Mind II GEND 103 04
+Robert Wimer MW 05:00 PM 06:30 PM 01/06/2024 04/25/2024 HUHBG HU326
+GEND 103 05 3.00 The Creative Mind II GEND 103 05
+Jaime Gibson MW 12:50 PM 02:20 PM 01/06/2024 04/25/2024 HUHBG HU326
+GEND 103 06 3.00 The Creative Mind II GEND 103 06
+Page 15 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Gen Ed/Learning Communities
+Paul Arendt TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUPHI PHILA
+GEND 103 P1 3.00 The Creative Mind II GEND 103 P1
+Dan Tomaso MW 09:00 AM 10:30 AM 01/06/2024 04/25/2024 HUHBG HU326 1204
+GEND 104 01 3.00 Our Ocean World GEND 104 01
+Jennifer Sliko T 03:15 PM 04:45 PM 01/06/2024 04/25/2024 HUHBG HU326 1204
+Jennifer Sliko R 03:15 PM 04:45 PM 01/06/2024 04/25/2024 SVC VIRTU
+GEND 104 02 3.00 Our Ocean World GEND 104 02
+Brett Thackara MW 07:55 AM 09:25 AM 01/06/2024 04/25/2024 HUHBG HU326 1212
+GEND 109 01 3.00 Meteorology GEND 109 01
+Scott Stuccio MW 04:35 PM 06:05 PM 01/06/2024 04/25/2024 HUHBG HU326 1254
+GEND 109 02 3.00 Meteorology GEND 109 02
+Steven Jasinski TR 12:35 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU326 1058
+GEND 113 01 3.00 Scientific Mind: Life Sciences GEND 113 01
+Steven Jasinski TR 03:15 PM 04:45 PM 01/06/2024 04/25/2024 HUHBG HU326 1058
+GEND 113 02 3.00 Scientific Mind: Life Sciences GEND 113 02
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+GEND 113 P1 3.00 Scientific Mind: Life Sciences GEND 113 P1
+TR 03:15 PM 04:45 PM 01/06/2024 04/25/2024 Open to Philadelphia
+SVC VIRTU
+GEND 120 01 3.00 Self & Society: Intro to Sociology GEND 120 01
+Brian Grey TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUHBG HU326 1112
+GEND 122 01 3.00 Computational Mind GEND 122 01
+Page 16 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Gen Ed/Learning Communities
+Ru Wideman MW 09:00 AM 10:00 AM 01/06/2024 04/25/2024 HUHBG HU326 1312
+Ru Wideman F 09:00 AM 10:00 AM 01/06/2024 04/25/2024 SVC VIRTU
+GEND 130 01 3.00 General Psychology GEND 130 01
+Sarah Dyson MW 03:30 PM 05:00 PM 01/06/2024 04/25/2024 SVC VIRTU
+GEND 130 P1 3.00 General Psychology GEND 130 P1
+Christopher Maith MWF 12:15 PM 01:15 PM 01/06/2024 04/25/2024 Open to Philadelphia
+SVC VIRTU
+GEND 215 01 3.00 The Civic Mind GEND 215 01
+Christopher Maith MW 03:30 PM 05:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+GEND 215 02 3.00 The Civic Mind GEND 215 02
+Heather Tidwell TR 08:25 AM 09:55 AM 01/06/2024 04/25/2024 HUHBG HU326
+GEND 215 03 3.00 The Civic Mind GEND 215 03
+Thomas Sarachan T 06:30 PM 08:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+Thomas Sarachan R 06:30 PM 08:00 PM 01/06/2024 04/25/2024 SVC VIRTU
+GEND 215 04 3.00 The Civic Mind GEND 215 04
+Frank Fuller MW 03:30 PM 05:00 PM 01/06/2024 04/25/2024 HUPHI PHILA
+GEND 215 P1 3.00 The Civic Mind GEND 215 P1
+Elizabeth Hockley MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326
+GEND 275 01 3.00 Gender and Society GEND 275 01
+Elizabeth Hockley TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 SVC VIRTU
+GEND 275 02 3.00 Gender and Society GEND 275 02
+Vicki Villone 00:00 AM 00:00 AM 01/06/2024 04/25/2024 Open to Philadelphia
+AOC AOC
+GEND 315 90 3.00 Science in Literature GEND 315 90
+Page 17 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Gen Ed/Learning Communities
+Thomas Sarachan MW 07:00 PM 08:30 PM 01/06/2024 04/25/2024 SVC VIRTU
+GEND 325 01 3.00 Consulting GEND 325 01
+Thomas Sarachan MWF 01:20 PM 02:20 PM 01/06/2024 04/25/2024 SVC VIRTU
+GEND 325 P1 3.00 Consulting GEND 325 P1
+Dawn Spaar MW 03:30 PM 05:00 PM 01/06/2024 04/25/2024 HUHBG HU326 1054
+GEND 355 01 3.00 The Corporate Mind GEND 355 01
+Heather Tidwell TR 03:15 PM 04:45 PM 01/06/2024 04/25/2024 HUHBG HU326
+GEND 400 01 3.00 The Entrepreneurial Mind GEND 400 01
+Dawn Spaar TR 12:35 PM 02:05 PM 01/06/2024 04/25/2024 SVC VIRTU
+GEND 400 P1 3.00 The Entrepreneurial Mind GEND 400 P1
+Thomas Sarachan 00:00 AM 00:00 AM 01/06/2024 04/25/2024 AOC AOC
+GEND 465 90 3.00 Ethical Mind: Ethics in Digital Age GEND 465 90
+Geospatial Technology
+Christine Marie Proctor TR 04:00 PM 06:00 PM 01/06/2024 04/25/2024 HUHBG HU326 1104
+GSTC 140 01 4.00 Introduction to GIS GSTC 140 01
+Mina Gabriel MW 07:55 AM 09:55 AM 01/06/2024 04/25/2024 HUHBG HU326 1104
+GSTC 330 01 4.00 Spatial Database Management GSTC 330 01
+Albert Sarvis 00:00 AM 00:00 AM 01/06/2024 04/25/2024 Field trip TBD
+HUHBG HU326
+GSTC 360 01 4.00 Sub-Artic Geospatial Field StudiesGSTC 360 01
+Joel Rogers TR 04:00 PM 06:00 PM 01/06/2024 04/25/2024 HUHBG HU326 1112
+GSTC 450 01 4.00 Desktop GIS Development GSTC 450 01
+Page 18 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Interactive Media
+Charles LaMonte Palmer MW 10:05 AM 11:05 AM 01/06/2024 04/25/2024 Virtual class meetings
+SVC VIRTU
+IMED 110 01 2.00 Introduction to Digital Design IMED 110 01
+Charles LaMonte Palmer MW 01:20 PM 02:20 PM 01/06/2024 04/25/2024 HUHBG HU326
+IMED 110 02 2.00 Introduction to Digital Design IMED 110 02
+Lewis James Ellis MW 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUPHI PHILA
+IMED 110 P1 2.00 Introduction to Digital Design IMED 110 P1
+Sa Liu TR 10:00 AM 12:00 PM 01/06/2024 04/25/2024 HUHBG HU222 315
+IMED 120 01 4.00 Introduction to Media ComputationIMED 120 01
+Sa Liu TR 12:05 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU222 315
+IMED 120 02 4.00 Introduction to Media ComputationIMED 120 02
+Simon Chen MWF 11:10 AM 12:30 PM 01/06/2024 04/25/2024 HUPHI PHILA
+IMED 120 P1 4.00 Introduction to Media ComputationIMED 120 P1
+Kelly Boudreau M 10:05 AM 01:05 PM 01/06/2024 04/25/2024 HUHBG HU326
+IMED 215 01 3.00 Intro to Game Studies and Design IMED 215 01
+Wyatt Alexander Boyer 00:00 AM 00:00 AM 01/06/2024 04/25/2024 SVC VIRTU
+IMED 220 01 3.00 Sociotechnical Theories IMED 220 01
+Wyatt Alexander Boyer 00:00 AM 00:00 AM 01/06/2024 04/25/2024 AOC AOC
+IMED 225 90 3.00 Design Tools and Processes IMED 225 90
+Caleb Smith F 12:15 PM 02:15 PM 01/06/2024 04/25/2024 HUHBG HU326
+IMED 250 01 2.00 Video Production I IMED 250 01
+Simon Chen MWF 09:00 AM 10:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+IMED 250 P1 2.00 Video Production I IMED 250 P1
+Page 19 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Interactive Media
+Caleb Smith R 10:00 AM 01:00 PM 01/06/2024 04/25/2024 HUHBG HU326 1012
+IMED 255 01 3.00 Audio Production IMED 255 01
+Greg S Albright W 10:05 AM 01:05 PM 01/06/2024 04/25/2024 HUHBG HU326
+IMED 260 01 3.00 Purposeful Games: Contxt&ConcptIMED 260 01
+Kelly Boudreau W 10:05 AM 01:05 PM 01/06/2024 04/25/2024 SVC VIRTU
+IMED 260 P1 3.00 Purposeful Games: Contxt&ConcptIMED 260 P1
+Sa Liu TR 03:15 PM 04:45 PM 01/06/2024 04/25/2024 HUHBG HU222 315
+IMED 265 01 3.00 Front-End Web Development IMED 265 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+IMED 298 01 3.00 Project I IMED 298 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+IMED 298 P1 3.00 Project I IMED 298 P1
+Beverly Sage TR 03:15 PM 04:45 PM 01/06/2024 04/25/2024 HUHBG HU326
+IMED 310 01 3.00 3D Modeling II IMED 310 01
+Germaine Irwin MW 05:30 PM 07:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+IMED 358 01 3.00 Patterns and Contexts IMED 358 01
+Caleb Smith MW 09:00 AM 10:30 AM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+IMED 370 01 3.00 Producing Creative Projects IMED 370 01
+Page 20 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Interactive Media
+Kelly Boudreau 00:00 AM 00:00 AM 01/06/2024 04/25/2024 Open to Philadelphia
+AOC AOC
+Kelly Boudreau T 10:00 AM 01:00 PM 01/09/2024 01/09/2024 SVC VIRTU
+Kelly Boudreau T 10:00 AM 01:00 PM 01/16/2024 01/16/2024 SVC VIRTU
+Kelly Boudreau T 10:00 AM 01:00 PM 02/06/2024 02/06/2024 SVC VIRTU
+Kelly Boudreau T 10:00 AM 01:00 PM 03/12/2024 03/12/2024 SVC VIRTU
+Kelly Boudreau T 10:00 AM 01:00 PM 04/02/2024 04/02/2024 SVC VIRTU
+IMED 382 01 3.00 World and Narrative Des Dig Games
+IMED 382 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+IMED 388 01 3.00 Games User Interface & Level Design
+IMED 388 01
+Tanner Reckling TR 12:05 PM 02:05 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+IMED 440 01 4.00 Interactive Studio IMED 440 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+IMED 498 01 3.00 IMED Project II IMED 498 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+IMED 498 P1 3.00 IMED Project II IMED 498 P1
+Integrative Science
+Yiben Wang MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326 1258
+INSC 115 01 3.00 The Chemistry of Life INSC 115 01
+Andrea M Nagy MWF 01:20 PM 02:20 PM 01/06/2024 04/25/2024 HUHBG HU326
+INSC 115 02 3.00 The Chemistry of Life INSC 115 02
+Page 21 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Integrative Science
+Andrea M Nagy MW 03:30 PM 05:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+INSC 115 03 3.00 The Chemistry of Life INSC 115 03
+Karma Pace TR 12:30 PM 02:05 PM 01/06/2024 04/25/2024 HUPHI PHILA
+INSC 115 P1 3.00 The Chemistry of Life INSC 115 P1
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+INSC 298 01 3.00 INSC Project I INSC 298 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+INSC 498 01 3.00 INSC Project II INSC 498 01
+Information Sys & Info Tech
+Stephanie Hofer TR 07:55 AM 09:55 AM 01/06/2024 04/25/2024 HUHBG HU326
+ISIT 170 01 4.00 Intro to Data and Information MgmtISIT 170 01
+Barry L Boyer TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUHBG HU326
+ISIT 260 01 3.00 Introduction to Cloud Services ISIT 260 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+ISIT 298 01 3.00 ISIT Project I ISIT 298 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+ISIT 298 P1 3.00 ISIT Project I ISIT 298 P1
+David Paul TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 Open to Philadelphia
+SVC VIRTU
+ISIT 330 01 3.00 Advanced Networking I ISIT 330 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+ISIT 498 01 3.00 ISIT Project II ISIT 498 01
+Page 22 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Information Sys & Info Tech
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUPHI PHILA
+ISIT 498 P1 3.00 ISIT Project II ISIT 498 P1
+Mathematics
+Nathan Cook MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 081 01 3.00 Prealgebra MATH 081 01
+Mike Eck MWF 01:20 PM 02:20 PM 01/06/2024 04/25/2024 HUPHI PHILA
+MATH 081 P1 3.00 Prealgebra MATH 081 P1
+Nathan Cook TR 10:00 AM 12:00 PM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 120 01 3.00 College Algebra I MATH 120 01
+Thi Phung TR 12:05 PM 02:05 PM 01/06/2024 04/25/2024 HUHBG HU326 1005
+MATH 120 02 3.00 College Algebra I MATH 120 02
+Nathan Cook MWF 12:15 PM 01:35 PM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 120 03 3.00 College Algebra I MATH 120 03
+Mike Eck MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUPHI PHILA
+MATH 120 P1 3.00 College Algebra I MATH 120 P1
+Mark Alwine MWF 09:00 AM 10:00 AM 01/06/2024 04/25/2024 HUHBG HU326 1254
+MATH 140 01 3.00 Precalculus MATH 140 01
+Tori Martinez TR 04:30 PM 06:00 PM 01/06/2024 04/25/2024 SVC VIRTU
+MATH 150 01 3.00 Applied Mathematical Reasoning MATH 150 01
+Panakkal Mathew TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 SVC VIRTU
+MATH 150 P1 3.00 Applied Mathematical Reasoning MATH 150 P1
+Page 23 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Mathematics
+Mark Alwine TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUHBG HU326 1254
+MATH 220 01 3.00 Calculus I MATH 220 01
+Thi Phung MWF 11:10 AM 12:10 PM 01/06/2024 04/25/2024 HUHBG HU326 1005
+MATH 220 02 3.00 Calculus I MATH 220 02
+Panakkal Mathew TR 03:15 PM 04:45 PM 01/06/2024 04/25/2024 HUPHI PHILA 113
+MATH 220 P1 3.00 Calculus I MATH 220 P1
+Thi Phung TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUHBG HU326 1005
+MATH 250 01 3.00 Introduction to Linear Algebra MATH 250 01
+Thi Phung MWF 12:15 PM 01:15 PM 01/06/2024 04/25/2024 HUHBG HU326 1005
+MATH 250 02 3.00 Introduction to Linear Algebra MATH 250 02
+Panakkal Mathew TR 08:25 AM 09:55 AM 01/06/2024 04/25/2024 HUPHI PHILA 113
+MATH 250 P1 3.00 Introduction to Linear Algebra MATH 250 P1
+Hulusi Yilmaz MWF 12:15 PM 01:15 PM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 261 01 3.00 Calculus III MATH 261 01
+Mark Alwine MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326 1254
+MATH 280 01 3.00 Introductory Statistics MATH 280 01
+Akeisha Belgrave MWF 11:10 AM 12:10 PM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 280 02 3.00 Introductory Statistics MATH 280 02
+Akeisha Belgrave MWF 01:20 PM 02:20 PM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 280 03 3.00 Introductory Statistics MATH 280 03
+Mark Alwine TR 08:25 AM 09:55 AM 01/06/2024 04/25/2024 HUHBG HU326 1254
+MATH 280 04 3.00 Introductory Statistics MATH 280 04
+Page 24 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Mathematics
+Karma Pace 00:00 AM 00:00 AM 01/06/2024 04/25/2024 SVC VIRTU
+MATH 280 P1 3.00 Introductory Statistics MATH 280 P1
+Panakkal Mathew MWF 10:05 AM 11:05 AM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 300 01 3.00 Experiment Design and Analysis MATH 300 01
+Chad Van Chu MF 09:00 AM 10:30 AM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 310 01 3.00 Discrete Mathematics II MATH 310 01
+Chad Van Chu MF 11:10 AM 12:40 PM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 310 02 3.00 Discrete Mathematics II MATH 310 02
+Chad Van Chu TR 12:35 PM 02:05 PM 01/06/2024 04/25/2024 HUPHI PHILA
+MATH 310 P1 3.00 Discrete Mathematics II MATH 310 P1
+Hulusi Yilmaz TR 12:05 PM 01:35 PM 01/06/2024 04/25/2024 HUHBG HU326
+MATH 320 01 3.00 Ordinary Differential Equations MATH 320 01
+Management & E-Business
+Joseph Zagerman MWF 01:20 PM 02:20 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326 1004
+MEBA 110 01 3.00 Intr to Business & Entrepre MEBA 110 01
+Sandra Jumper TR 12:05 PM 01:35 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+MEBA 110 02 3.00 Intr to Business & Entrepre MEBA 110 02
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+MEBA 210 01 3.00 Web Development for Business MEBA 210 01
+Joseph Zagerman MWF 09:00 AM 10:00 AM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326 1004
+MEBA 220 01 3.00 Prin Business Mgmt MEBA 220 01
+Page 25 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Management & E-Business
+R. Lynn Burkholder TR 03:15 PM 04:45 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326
+MEBA 230 01 3.00 Marketing MEBA 230 01
+Joseph Zagerman MWF 11:10 AM 12:10 PM 01/06/2024 04/25/2024 Open to Philadelphia
+HUHBG HU326 1004
+MEBA 250 01 3.00 Corporate Innovation & Entrepre MEBA 250 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+MEBA 298 01 3.00 MEBA Project I MEBA 298 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+MEBA 298 P1 3.00 MEBA Project I MEBA 298 P1
+Joseph Zagerman TR 09:00 AM 10:30 AM 01/06/2024 04/25/2024 HUHBG HU326
+MEBA 322 01 3.00 Decision Theory MEBA 322 01
+Jennifer Anne Mowery TR 10:00 AM 11:30 AM 01/06/2024 04/25/2024 HUHBG HU326
+MEBA 340 01 3.00 Intr to Innovation & Des Thinking MEBA 340 01
+Ross Gibson Delasin TR 08:25 AM 09:55 AM 01/06/2024 04/25/2024 HUHBG HU326
+MEBA 352 01 3.00 Consumer Behavior MEBA 352 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+MEBA 498 01 3.00 MEBA Project II MEBA 498 01
+00:00 AM 00:00 AM 01/06/2024 04/25/2024 HUHBG HU326
+MEBA 498 P1 3.00 MEBA Project II MEBA 498 P1
+Physics
+Hulusi Yilmaz MWF 11:10 AM 12:10 PM 01/06/2024 04/25/2024 HUHBG HU326
+PHYS 131 01 3.00 General Physics II Lecture PHYS 131 01
+Page 26 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+Course Schedules
+Harrisburg University of Science and Technology 2023-2024 Academic Year Spring
+Course Credits Title [Note: Times are EST]
+Professor Days Beg Time End Time Beg Date End Date Locatn Bldg Room Comment
+Subterm
+Physics
+Hulusi Yilmaz R 03:30 PM 06:30 PM 01/06/2024 04/25/2024 HUHBG HU326 1002
+PHYS 132 01 1.00 General Physics II Lab PHYS 132 01
+Page 27 of 27
+Revised: 11/8/2023 Textbook Information is available under the Academics tab of the myHU portal.
+
